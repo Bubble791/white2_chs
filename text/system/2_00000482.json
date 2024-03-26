@@ -1,0 +1,2558 @@
+[
+    [
+        "0_0",
+        "???$"
+    ],
+    [
+        "0_1",
+        "Master Balls$"
+    ],
+    [
+        "0_2",
+        "Ultra Balls$"
+    ],
+    [
+        "0_3",
+        "Great Balls$"
+    ],
+    [
+        "0_4",
+        "Poké Balls$"
+    ],
+    [
+        "0_5",
+        "Safari Balls$"
+    ],
+    [
+        "0_6",
+        "Net Balls$"
+    ],
+    [
+        "0_7",
+        "Dive Balls$"
+    ],
+    [
+        "0_8",
+        "Nest Balls$"
+    ],
+    [
+        "0_9",
+        "Repeat Balls$"
+    ],
+    [
+        "0_10",
+        "Timer Balls$"
+    ],
+    [
+        "0_11",
+        "Luxury Balls$"
+    ],
+    [
+        "0_12",
+        "Premier Balls$"
+    ],
+    [
+        "0_13",
+        "Dusk Balls$"
+    ],
+    [
+        "0_14",
+        "Heal Balls$"
+    ],
+    [
+        "0_15",
+        "Quick Balls$"
+    ],
+    [
+        "0_16",
+        "Cherish Balls$"
+    ],
+    [
+        "0_17",
+        "Potions$"
+    ],
+    [
+        "0_18",
+        "Antidotes$"
+    ],
+    [
+        "0_19",
+        "Burn Heals$"
+    ],
+    [
+        "0_20",
+        "Ice Heals$"
+    ],
+    [
+        "0_21",
+        "Awakenings$"
+    ],
+    [
+        "0_22",
+        "Parlyz Heals$"
+    ],
+    [
+        "0_23",
+        "Full Restores$"
+    ],
+    [
+        "0_24",
+        "Max Potions$"
+    ],
+    [
+        "0_25",
+        "Hyper Potions$"
+    ],
+    [
+        "0_26",
+        "Super Potions$"
+    ],
+    [
+        "0_27",
+        "Full Heals$"
+    ],
+    [
+        "0_28",
+        "Revives$"
+    ],
+    [
+        "0_29",
+        "Max Revives$"
+    ],
+    [
+        "0_30",
+        "Fresh Waters$"
+    ],
+    [
+        "0_31",
+        "Soda Pops$"
+    ],
+    [
+        "0_32",
+        "Lemonades$"
+    ],
+    [
+        "0_33",
+        "Moomoo Milks$"
+    ],
+    [
+        "0_34",
+        "EnergyPowders$"
+    ],
+    [
+        "0_35",
+        "Energy Roots$"
+    ],
+    [
+        "0_36",
+        "Heal Powders$"
+    ],
+    [
+        "0_37",
+        "Revival Herbs$"
+    ],
+    [
+        "0_38",
+        "Ethers$"
+    ],
+    [
+        "0_39",
+        "Max Ethers$"
+    ],
+    [
+        "0_40",
+        "Elixirs$"
+    ],
+    [
+        "0_41",
+        "Max Elixirs$"
+    ],
+    [
+        "0_42",
+        "Lava Cookies$"
+    ],
+    [
+        "0_43",
+        "Berry Juices$"
+    ],
+    [
+        "0_44",
+        "Sacred Ashes$"
+    ],
+    [
+        "0_45",
+        "HP Ups$"
+    ],
+    [
+        "0_46",
+        "Proteins$"
+    ],
+    [
+        "0_47",
+        "Irons$"
+    ],
+    [
+        "0_48",
+        "Carbos$"
+    ],
+    [
+        "0_49",
+        "Calciums$"
+    ],
+    [
+        "0_50",
+        "Rare Candies$"
+    ],
+    [
+        "0_51",
+        "PP Ups$"
+    ],
+    [
+        "0_52",
+        "Zincs$"
+    ],
+    [
+        "0_53",
+        "PP Maxes$"
+    ],
+    [
+        "0_54",
+        "Old Gateaux$"
+    ],
+    [
+        "0_55",
+        "Guard Specs.$"
+    ],
+    [
+        "0_56",
+        "Dire Hits$"
+    ],
+    [
+        "0_57",
+        "X Attacks$"
+    ],
+    [
+        "0_58",
+        "X Defends$"
+    ],
+    [
+        "0_59",
+        "X Speeds$"
+    ],
+    [
+        "0_60",
+        "X Accuracies$"
+    ],
+    [
+        "0_61",
+        "X Specials$"
+    ],
+    [
+        "0_62",
+        "X Sp. Defs$"
+    ],
+    [
+        "0_63",
+        "Poké Dolls$"
+    ],
+    [
+        "0_64",
+        "Fluffy Tails$"
+    ],
+    [
+        "0_65",
+        "Blue Flutes$"
+    ],
+    [
+        "0_66",
+        "Yellow Flutes$"
+    ],
+    [
+        "0_67",
+        "Red Flutes$"
+    ],
+    [
+        "0_68",
+        "Black Flutes$"
+    ],
+    [
+        "0_69",
+        "White Flutes$"
+    ],
+    [
+        "0_70",
+        "Shoal Salts$"
+    ],
+    [
+        "0_71",
+        "Shoal Shells$"
+    ],
+    [
+        "0_72",
+        "Red Shards$"
+    ],
+    [
+        "0_73",
+        "Blue Shards$"
+    ],
+    [
+        "0_74",
+        "Yellow Shards$"
+    ],
+    [
+        "0_75",
+        "Green Shards$"
+    ],
+    [
+        "0_76",
+        "Super Repels$"
+    ],
+    [
+        "0_77",
+        "Max Repels$"
+    ],
+    [
+        "0_78",
+        "Escape Ropes$"
+    ],
+    [
+        "0_79",
+        "Repels$"
+    ],
+    [
+        "0_80",
+        "Sun Stones$"
+    ],
+    [
+        "0_81",
+        "Moon Stones$"
+    ],
+    [
+        "0_82",
+        "Fire Stones$"
+    ],
+    [
+        "0_83",
+        "Thunderstones$"
+    ],
+    [
+        "0_84",
+        "Water Stones$"
+    ],
+    [
+        "0_85",
+        "Leaf Stones$"
+    ],
+    [
+        "0_86",
+        "TinyMushrooms$"
+    ],
+    [
+        "0_87",
+        "Big Mushrooms$"
+    ],
+    [
+        "0_88",
+        "Pearls$"
+    ],
+    [
+        "0_89",
+        "Big Pearls$"
+    ],
+    [
+        "0_90",
+        "Stardusts$"
+    ],
+    [
+        "0_91",
+        "Star Pieces$"
+    ],
+    [
+        "0_92",
+        "Nuggets$"
+    ],
+    [
+        "0_93",
+        "Heart Scales$"
+    ],
+    [
+        "0_94",
+        "Honey$"
+    ],
+    [
+        "0_95",
+        "Growth Mulch$"
+    ],
+    [
+        "0_96",
+        "Damp Mulch$"
+    ],
+    [
+        "0_97",
+        "Stable Mulch$"
+    ],
+    [
+        "0_98",
+        "Gooey Mulch$"
+    ],
+    [
+        "0_99",
+        "Root Fossils$"
+    ],
+    [
+        "0_100",
+        "Claw Fossils$"
+    ],
+    [
+        "0_101",
+        "Helix Fossils$"
+    ],
+    [
+        "0_102",
+        "Dome Fossils$"
+    ],
+    [
+        "0_103",
+        "Old Ambers$"
+    ],
+    [
+        "0_104",
+        "Armor Fossils$"
+    ],
+    [
+        "0_105",
+        "Skull Fossils$"
+    ],
+    [
+        "0_106",
+        "Rare Bones$"
+    ],
+    [
+        "0_107",
+        "Shiny Stones$"
+    ],
+    [
+        "0_108",
+        "Dusk Stones$"
+    ],
+    [
+        "0_109",
+        "Dawn Stones$"
+    ],
+    [
+        "0_110",
+        "Oval Stones$"
+    ],
+    [
+        "0_111",
+        "Odd Keystones$"
+    ],
+    [
+        "0_112",
+        "Griseous Orbs$"
+    ],
+    [
+        "0_113",
+        "???$"
+    ],
+    [
+        "0_114",
+        "???$"
+    ],
+    [
+        "0_115",
+        "???$"
+    ],
+    [
+        "0_116",
+        "Douse Drives$"
+    ],
+    [
+        "0_117",
+        "Shock Drives$"
+    ],
+    [
+        "0_118",
+        "Burn Drives$"
+    ],
+    [
+        "0_119",
+        "Chill Drives$"
+    ],
+    [
+        "0_120",
+        "???$"
+    ],
+    [
+        "0_121",
+        "???$"
+    ],
+    [
+        "0_122",
+        "???$"
+    ],
+    [
+        "0_123",
+        "???$"
+    ],
+    [
+        "0_124",
+        "???$"
+    ],
+    [
+        "0_125",
+        "???$"
+    ],
+    [
+        "0_126",
+        "???$"
+    ],
+    [
+        "0_127",
+        "???$"
+    ],
+    [
+        "0_128",
+        "???$"
+    ],
+    [
+        "0_129",
+        "???$"
+    ],
+    [
+        "0_130",
+        "???$"
+    ],
+    [
+        "0_131",
+        "???$"
+    ],
+    [
+        "0_132",
+        "???$"
+    ],
+    [
+        "0_133",
+        "???$"
+    ],
+    [
+        "0_134",
+        "Sweet Hearts$"
+    ],
+    [
+        "0_135",
+        "Adamant Orbs$"
+    ],
+    [
+        "0_136",
+        "Lustrous Orbs$"
+    ],
+    [
+        "0_137",
+        "Greet Mail$"
+    ],
+    [
+        "0_138",
+        "Favored Mail$"
+    ],
+    [
+        "0_139",
+        "RSVP Mail$"
+    ],
+    [
+        "0_140",
+        "Thanks Mail$"
+    ],
+    [
+        "0_141",
+        "Inquiry Mail$"
+    ],
+    [
+        "0_142",
+        "Like Mail$"
+    ],
+    [
+        "0_143",
+        "Reply Mail$"
+    ],
+    [
+        "0_144",
+        "BridgeMail S$"
+    ],
+    [
+        "0_145",
+        "BridgeMail D$"
+    ],
+    [
+        "0_146",
+        "BridgeMail T$"
+    ],
+    [
+        "0_147",
+        "BridgeMail V$"
+    ],
+    [
+        "0_148",
+        "BridgeMail M$"
+    ],
+    [
+        "0_149",
+        "Cheri Berries$"
+    ],
+    [
+        "0_150",
+        "Chesto Berries$"
+    ],
+    [
+        "0_151",
+        "Pecha Berries$"
+    ],
+    [
+        "0_152",
+        "Rawst Berries$"
+    ],
+    [
+        "0_153",
+        "Aspear Berries$"
+    ],
+    [
+        "0_154",
+        "Leppa Berries$"
+    ],
+    [
+        "0_155",
+        "Oran Berries$"
+    ],
+    [
+        "0_156",
+        "Persim Berries$"
+    ],
+    [
+        "0_157",
+        "Lum Berries$"
+    ],
+    [
+        "0_158",
+        "Sitrus Berries$"
+    ],
+    [
+        "0_159",
+        "Figy Berries$"
+    ],
+    [
+        "0_160",
+        "Wiki Berries$"
+    ],
+    [
+        "0_161",
+        "Mago Berries$"
+    ],
+    [
+        "0_162",
+        "Aguav Berries$"
+    ],
+    [
+        "0_163",
+        "Iapapa Berries$"
+    ],
+    [
+        "0_164",
+        "Razz Berries$"
+    ],
+    [
+        "0_165",
+        "Bluk Berries$"
+    ],
+    [
+        "0_166",
+        "Nanab Berries$"
+    ],
+    [
+        "0_167",
+        "Wepear Berries$"
+    ],
+    [
+        "0_168",
+        "Pinap Berries$"
+    ],
+    [
+        "0_169",
+        "Pomeg Berries$"
+    ],
+    [
+        "0_170",
+        "Kelpsy Berries$"
+    ],
+    [
+        "0_171",
+        "Qualot Berries$"
+    ],
+    [
+        "0_172",
+        "Hondew Berries$"
+    ],
+    [
+        "0_173",
+        "Grepa Berries$"
+    ],
+    [
+        "0_174",
+        "Tamato Berries$"
+    ],
+    [
+        "0_175",
+        "Cornn Berries$"
+    ],
+    [
+        "0_176",
+        "Magost Berries$"
+    ],
+    [
+        "0_177",
+        "Rabuta Berries$"
+    ],
+    [
+        "0_178",
+        "Nomel Berries$"
+    ],
+    [
+        "0_179",
+        "Spelon Berries$"
+    ],
+    [
+        "0_180",
+        "Pamtre Berries$"
+    ],
+    [
+        "0_181",
+        "Watmel Berries$"
+    ],
+    [
+        "0_182",
+        "Durin Berries$"
+    ],
+    [
+        "0_183",
+        "Belue Berries$"
+    ],
+    [
+        "0_184",
+        "Occa Berries$"
+    ],
+    [
+        "0_185",
+        "Passho Berries$"
+    ],
+    [
+        "0_186",
+        "Wacan Berries$"
+    ],
+    [
+        "0_187",
+        "Rindo Berries$"
+    ],
+    [
+        "0_188",
+        "Yache Berries$"
+    ],
+    [
+        "0_189",
+        "Chople Berries$"
+    ],
+    [
+        "0_190",
+        "Kebia Berries$"
+    ],
+    [
+        "0_191",
+        "Shuca Berries$"
+    ],
+    [
+        "0_192",
+        "Coba Berries$"
+    ],
+    [
+        "0_193",
+        "Payapa Berries$"
+    ],
+    [
+        "0_194",
+        "Tanga Berries$"
+    ],
+    [
+        "0_195",
+        "Charti Berries$"
+    ],
+    [
+        "0_196",
+        "Kasib Berries$"
+    ],
+    [
+        "0_197",
+        "Haban Berries$"
+    ],
+    [
+        "0_198",
+        "Colbur Berries$"
+    ],
+    [
+        "0_199",
+        "Babiri Berries$"
+    ],
+    [
+        "0_200",
+        "Chilan Berries$"
+    ],
+    [
+        "0_201",
+        "Liechi Berries$"
+    ],
+    [
+        "0_202",
+        "Ganlon Berries$"
+    ],
+    [
+        "0_203",
+        "Salac Berries$"
+    ],
+    [
+        "0_204",
+        "Petaya Berries$"
+    ],
+    [
+        "0_205",
+        "Apicot Berries$"
+    ],
+    [
+        "0_206",
+        "Lansat Berries$"
+    ],
+    [
+        "0_207",
+        "Starf Berries$"
+    ],
+    [
+        "0_208",
+        "Enigma Berries$"
+    ],
+    [
+        "0_209",
+        "Micle Berries$"
+    ],
+    [
+        "0_210",
+        "Custap Berries$"
+    ],
+    [
+        "0_211",
+        "Jaboca Berries$"
+    ],
+    [
+        "0_212",
+        "Rowap Berries$"
+    ],
+    [
+        "0_213",
+        "BrightPowders$"
+    ],
+    [
+        "0_214",
+        "White Herbs$"
+    ],
+    [
+        "0_215",
+        "Macho Braces$"
+    ],
+    [
+        "0_216",
+        "Exp. Shares$"
+    ],
+    [
+        "0_217",
+        "Quick Claws$"
+    ],
+    [
+        "0_218",
+        "Soothe Bells$"
+    ],
+    [
+        "0_219",
+        "Mental Herbs$"
+    ],
+    [
+        "0_220",
+        "Choice Bands$"
+    ],
+    [
+        "0_221",
+        "King's Rocks$"
+    ],
+    [
+        "0_222",
+        "SilverPowders$"
+    ],
+    [
+        "0_223",
+        "Amulet Coins$"
+    ],
+    [
+        "0_224",
+        "Cleanse Tags$"
+    ],
+    [
+        "0_225",
+        "Soul Dews$"
+    ],
+    [
+        "0_226",
+        "DeepSeaTeeth$"
+    ],
+    [
+        "0_227",
+        "DeepSeaScales$"
+    ],
+    [
+        "0_228",
+        "Smoke Balls$"
+    ],
+    [
+        "0_229",
+        "Everstones$"
+    ],
+    [
+        "0_230",
+        "Focus Bands$"
+    ],
+    [
+        "0_231",
+        "Lucky Eggs$"
+    ],
+    [
+        "0_232",
+        "Scope Lenses$"
+    ],
+    [
+        "0_233",
+        "Metal Coats$"
+    ],
+    [
+        "0_234",
+        "Leftovers$"
+    ],
+    [
+        "0_235",
+        "Dragon Scales$"
+    ],
+    [
+        "0_236",
+        "Light Balls$"
+    ],
+    [
+        "0_237",
+        "Soft Sand$"
+    ],
+    [
+        "0_238",
+        "Hard Stones$"
+    ],
+    [
+        "0_239",
+        "Miracle Seeds$"
+    ],
+    [
+        "0_240",
+        "BlackGlasses$"
+    ],
+    [
+        "0_241",
+        "Black Belts$"
+    ],
+    [
+        "0_242",
+        "Magnets$"
+    ],
+    [
+        "0_243",
+        "Mystic Waters$"
+    ],
+    [
+        "0_244",
+        "Sharp Beaks$"
+    ],
+    [
+        "0_245",
+        "Poison Barbs$"
+    ],
+    [
+        "0_246",
+        "NeverMeltIces$"
+    ],
+    [
+        "0_247",
+        "Spell Tags$"
+    ],
+    [
+        "0_248",
+        "TwistedSpoons$"
+    ],
+    [
+        "0_249",
+        "Charcoals$"
+    ],
+    [
+        "0_250",
+        "Dragon Fangs$"
+    ],
+    [
+        "0_251",
+        "Silk Scarves$"
+    ],
+    [
+        "0_252",
+        "Up-Grades$"
+    ],
+    [
+        "0_253",
+        "Shell Bells$"
+    ],
+    [
+        "0_254",
+        "Sea Incenses$"
+    ],
+    [
+        "0_255",
+        "Lax Incenses$"
+    ],
+    [
+        "0_256",
+        "Lucky Punches$"
+    ],
+    [
+        "0_257",
+        "Metal Powders$"
+    ],
+    [
+        "0_258",
+        "Thick Clubs$"
+    ],
+    [
+        "0_259",
+        "Sticks$"
+    ],
+    [
+        "0_260",
+        "Red Scarves$"
+    ],
+    [
+        "0_261",
+        "Blue Scarves$"
+    ],
+    [
+        "0_262",
+        "Pink Scarves$"
+    ],
+    [
+        "0_263",
+        "Green Scarves$"
+    ],
+    [
+        "0_264",
+        "Yellow Scarves$"
+    ],
+    [
+        "0_265",
+        "Wide Lenses$"
+    ],
+    [
+        "0_266",
+        "Muscle Bands$"
+    ],
+    [
+        "0_267",
+        "Wise Glasses$"
+    ],
+    [
+        "0_268",
+        "Expert Belts$"
+    ],
+    [
+        "0_269",
+        "Light Clays$"
+    ],
+    [
+        "0_270",
+        "Life Orbs$"
+    ],
+    [
+        "0_271",
+        "Power Herbs$"
+    ],
+    [
+        "0_272",
+        "Toxic Orbs$"
+    ],
+    [
+        "0_273",
+        "Flame Orbs$"
+    ],
+    [
+        "0_274",
+        "Quick Powders$"
+    ],
+    [
+        "0_275",
+        "Focus Sashes$"
+    ],
+    [
+        "0_276",
+        "Zoom Lenses$"
+    ],
+    [
+        "0_277",
+        "Metronomes$"
+    ],
+    [
+        "0_278",
+        "Iron Balls$"
+    ],
+    [
+        "0_279",
+        "Lagging Tails$"
+    ],
+    [
+        "0_280",
+        "Destiny Knots$"
+    ],
+    [
+        "0_281",
+        "Black Sludges$"
+    ],
+    [
+        "0_282",
+        "Icy Rocks$"
+    ],
+    [
+        "0_283",
+        "Smooth Rocks$"
+    ],
+    [
+        "0_284",
+        "Heat Rocks$"
+    ],
+    [
+        "0_285",
+        "Damp Rocks$"
+    ],
+    [
+        "0_286",
+        "Grip Claws$"
+    ],
+    [
+        "0_287",
+        "Choice Scarves$"
+    ],
+    [
+        "0_288",
+        "Sticky Barbs$"
+    ],
+    [
+        "0_289",
+        "Power Bracers$"
+    ],
+    [
+        "0_290",
+        "Power Belts$"
+    ],
+    [
+        "0_291",
+        "Power Lenses$"
+    ],
+    [
+        "0_292",
+        "Power Bands$"
+    ],
+    [
+        "0_293",
+        "Power Anklets$"
+    ],
+    [
+        "0_294",
+        "Power Weights$"
+    ],
+    [
+        "0_295",
+        "Shed Shells$"
+    ],
+    [
+        "0_296",
+        "Big Roots$"
+    ],
+    [
+        "0_297",
+        "Choice Specs$"
+    ],
+    [
+        "0_298",
+        "Flame Plates$"
+    ],
+    [
+        "0_299",
+        "Splash Plates$"
+    ],
+    [
+        "0_300",
+        "Zap Plates$"
+    ],
+    [
+        "0_301",
+        "Meadow Plates$"
+    ],
+    [
+        "0_302",
+        "Icicle Plates$"
+    ],
+    [
+        "0_303",
+        "Fist Plates$"
+    ],
+    [
+        "0_304",
+        "Toxic Plates$"
+    ],
+    [
+        "0_305",
+        "Earth Plates$"
+    ],
+    [
+        "0_306",
+        "Sky Plates$"
+    ],
+    [
+        "0_307",
+        "Mind Plates$"
+    ],
+    [
+        "0_308",
+        "Insect Plates$"
+    ],
+    [
+        "0_309",
+        "Stone Plates$"
+    ],
+    [
+        "0_310",
+        "Spooky Plates$"
+    ],
+    [
+        "0_311",
+        "Draco Plates$"
+    ],
+    [
+        "0_312",
+        "Dread Plates$"
+    ],
+    [
+        "0_313",
+        "Iron Plates$"
+    ],
+    [
+        "0_314",
+        "Odd Incenses$"
+    ],
+    [
+        "0_315",
+        "Rock Incenses$"
+    ],
+    [
+        "0_316",
+        "Full Incenses$"
+    ],
+    [
+        "0_317",
+        "Wave Incenses$"
+    ],
+    [
+        "0_318",
+        "Rose Incenses$"
+    ],
+    [
+        "0_319",
+        "Luck Incenses$"
+    ],
+    [
+        "0_320",
+        "Pure Incenses$"
+    ],
+    [
+        "0_321",
+        "Protectors$"
+    ],
+    [
+        "0_322",
+        "Electirizers$"
+    ],
+    [
+        "0_323",
+        "Magmarizers$"
+    ],
+    [
+        "0_324",
+        "Dubious Discs$"
+    ],
+    [
+        "0_325",
+        "Reaper Cloths$"
+    ],
+    [
+        "0_326",
+        "Razor Claws$"
+    ],
+    [
+        "0_327",
+        "Razor Fangs$"
+    ],
+    [
+        "0_328",
+        "TM01s$"
+    ],
+    [
+        "0_329",
+        "TM02s$"
+    ],
+    [
+        "0_330",
+        "TM03s$"
+    ],
+    [
+        "0_331",
+        "TM04s$"
+    ],
+    [
+        "0_332",
+        "TM05s$"
+    ],
+    [
+        "0_333",
+        "TM06s$"
+    ],
+    [
+        "0_334",
+        "TM07s$"
+    ],
+    [
+        "0_335",
+        "TM08s$"
+    ],
+    [
+        "0_336",
+        "TM09s$"
+    ],
+    [
+        "0_337",
+        "TM10s$"
+    ],
+    [
+        "0_338",
+        "TM11s$"
+    ],
+    [
+        "0_339",
+        "TM12s$"
+    ],
+    [
+        "0_340",
+        "TM13s$"
+    ],
+    [
+        "0_341",
+        "TM14s$"
+    ],
+    [
+        "0_342",
+        "TM15s$"
+    ],
+    [
+        "0_343",
+        "TM16s$"
+    ],
+    [
+        "0_344",
+        "TM17s$"
+    ],
+    [
+        "0_345",
+        "TM18s$"
+    ],
+    [
+        "0_346",
+        "TM19s$"
+    ],
+    [
+        "0_347",
+        "TM20s$"
+    ],
+    [
+        "0_348",
+        "TM21s$"
+    ],
+    [
+        "0_349",
+        "TM22s$"
+    ],
+    [
+        "0_350",
+        "TM23s$"
+    ],
+    [
+        "0_351",
+        "TM24s$"
+    ],
+    [
+        "0_352",
+        "TM25s$"
+    ],
+    [
+        "0_353",
+        "TM26s$"
+    ],
+    [
+        "0_354",
+        "TM27s$"
+    ],
+    [
+        "0_355",
+        "TM28s$"
+    ],
+    [
+        "0_356",
+        "TM29s$"
+    ],
+    [
+        "0_357",
+        "TM30s$"
+    ],
+    [
+        "0_358",
+        "TM31s$"
+    ],
+    [
+        "0_359",
+        "TM32s$"
+    ],
+    [
+        "0_360",
+        "TM33s$"
+    ],
+    [
+        "0_361",
+        "TM34s$"
+    ],
+    [
+        "0_362",
+        "TM35s$"
+    ],
+    [
+        "0_363",
+        "TM36s$"
+    ],
+    [
+        "0_364",
+        "TM37s$"
+    ],
+    [
+        "0_365",
+        "TM38s$"
+    ],
+    [
+        "0_366",
+        "TM39s$"
+    ],
+    [
+        "0_367",
+        "TM40s$"
+    ],
+    [
+        "0_368",
+        "TM41s$"
+    ],
+    [
+        "0_369",
+        "TM42s$"
+    ],
+    [
+        "0_370",
+        "TM43s$"
+    ],
+    [
+        "0_371",
+        "TM44s$"
+    ],
+    [
+        "0_372",
+        "TM45s$"
+    ],
+    [
+        "0_373",
+        "TM46s$"
+    ],
+    [
+        "0_374",
+        "TM47s$"
+    ],
+    [
+        "0_375",
+        "TM48s$"
+    ],
+    [
+        "0_376",
+        "TM49s$"
+    ],
+    [
+        "0_377",
+        "TM50s$"
+    ],
+    [
+        "0_378",
+        "TM51s$"
+    ],
+    [
+        "0_379",
+        "TM52s$"
+    ],
+    [
+        "0_380",
+        "TM53s$"
+    ],
+    [
+        "0_381",
+        "TM54s$"
+    ],
+    [
+        "0_382",
+        "TM55s$"
+    ],
+    [
+        "0_383",
+        "TM56s$"
+    ],
+    [
+        "0_384",
+        "TM57s$"
+    ],
+    [
+        "0_385",
+        "TM58s$"
+    ],
+    [
+        "0_386",
+        "TM59s$"
+    ],
+    [
+        "0_387",
+        "TM60s$"
+    ],
+    [
+        "0_388",
+        "TM61s$"
+    ],
+    [
+        "0_389",
+        "TM62s$"
+    ],
+    [
+        "0_390",
+        "TM63s$"
+    ],
+    [
+        "0_391",
+        "TM64s$"
+    ],
+    [
+        "0_392",
+        "TM65s$"
+    ],
+    [
+        "0_393",
+        "TM66s$"
+    ],
+    [
+        "0_394",
+        "TM67s$"
+    ],
+    [
+        "0_395",
+        "TM68s$"
+    ],
+    [
+        "0_396",
+        "TM69s$"
+    ],
+    [
+        "0_397",
+        "TM70s$"
+    ],
+    [
+        "0_398",
+        "TM71s$"
+    ],
+    [
+        "0_399",
+        "TM72s$"
+    ],
+    [
+        "0_400",
+        "TM73s$"
+    ],
+    [
+        "0_401",
+        "TM74s$"
+    ],
+    [
+        "0_402",
+        "TM75s$"
+    ],
+    [
+        "0_403",
+        "TM76s$"
+    ],
+    [
+        "0_404",
+        "TM77s$"
+    ],
+    [
+        "0_405",
+        "TM78s$"
+    ],
+    [
+        "0_406",
+        "TM79s$"
+    ],
+    [
+        "0_407",
+        "TM80s$"
+    ],
+    [
+        "0_408",
+        "TM81s$"
+    ],
+    [
+        "0_409",
+        "TM82s$"
+    ],
+    [
+        "0_410",
+        "TM83s$"
+    ],
+    [
+        "0_411",
+        "TM84s$"
+    ],
+    [
+        "0_412",
+        "TM85s$"
+    ],
+    [
+        "0_413",
+        "TM86s$"
+    ],
+    [
+        "0_414",
+        "TM87s$"
+    ],
+    [
+        "0_415",
+        "TM88s$"
+    ],
+    [
+        "0_416",
+        "TM89s$"
+    ],
+    [
+        "0_417",
+        "TM90s$"
+    ],
+    [
+        "0_418",
+        "TM91s$"
+    ],
+    [
+        "0_419",
+        "TM92s$"
+    ],
+    [
+        "0_420",
+        "HM01s$"
+    ],
+    [
+        "0_421",
+        "HM02s$"
+    ],
+    [
+        "0_422",
+        "HM03s$"
+    ],
+    [
+        "0_423",
+        "HM04s$"
+    ],
+    [
+        "0_424",
+        "HM05s$"
+    ],
+    [
+        "0_425",
+        "HM06s$"
+    ],
+    [
+        "0_426",
+        "???$"
+    ],
+    [
+        "0_427",
+        "???$"
+    ],
+    [
+        "0_428",
+        "Explorer Kits$"
+    ],
+    [
+        "0_429",
+        "Loot Sacks$"
+    ],
+    [
+        "0_430",
+        "Rule Books$"
+    ],
+    [
+        "0_431",
+        "Poké Radars$"
+    ],
+    [
+        "0_432",
+        "Point Cards$"
+    ],
+    [
+        "0_433",
+        "Journals$"
+    ],
+    [
+        "0_434",
+        "Seal Cases$"
+    ],
+    [
+        "0_435",
+        "Fashion Cases$"
+    ],
+    [
+        "0_436",
+        "Seal Bags$"
+    ],
+    [
+        "0_437",
+        "Pal Pads$"
+    ],
+    [
+        "0_438",
+        "Works Keys$"
+    ],
+    [
+        "0_439",
+        "Old Charms$"
+    ],
+    [
+        "0_440",
+        "Galactic Keys$"
+    ],
+    [
+        "0_441",
+        "Red Chains$"
+    ],
+    [
+        "0_442",
+        "Town Maps$"
+    ],
+    [
+        "0_443",
+        "Vs. Seekers$"
+    ],
+    [
+        "0_444",
+        "Coin Cases$"
+    ],
+    [
+        "0_445",
+        "Old Rods$"
+    ],
+    [
+        "0_446",
+        "Good Rods$"
+    ],
+    [
+        "0_447",
+        "Super Rods$"
+    ],
+    [
+        "0_448",
+        "Sprayducks$"
+    ],
+    [
+        "0_449",
+        "Poffin Cases$"
+    ],
+    [
+        "0_450",
+        "Bicycles$"
+    ],
+    [
+        "0_451",
+        "Suite Keys$"
+    ],
+    [
+        "0_452",
+        "Oak's Letters$"
+    ],
+    [
+        "0_453",
+        "Lunar Wings$"
+    ],
+    [
+        "0_454",
+        "Member Cards$"
+    ],
+    [
+        "0_455",
+        "Azure Flutes$"
+    ],
+    [
+        "0_456",
+        "S.S. Tickets$"
+    ],
+    [
+        "0_457",
+        "Contest Passes$"
+    ],
+    [
+        "0_458",
+        "Magma Stones$"
+    ],
+    [
+        "0_459",
+        "Parcels$"
+    ],
+    [
+        "0_460",
+        "Coupon 1s$"
+    ],
+    [
+        "0_461",
+        "Coupon 2s$"
+    ],
+    [
+        "0_462",
+        "Coupon 3s$"
+    ],
+    [
+        "0_463",
+        "Storage Keys$"
+    ],
+    [
+        "0_464",
+        "SecretPotions$"
+    ],
+    [
+        "0_465",
+        "Vs. Recorders$"
+    ],
+    [
+        "0_466",
+        "Gracideas$"
+    ],
+    [
+        "0_467",
+        "Secret Keys$"
+    ],
+    [
+        "0_468",
+        "Apricorn Boxes$"
+    ],
+    [
+        "0_469",
+        "Unown Reports$"
+    ],
+    [
+        "0_470",
+        "Berry Pots$"
+    ],
+    [
+        "0_471",
+        "Dowsing MCHNs$"
+    ],
+    [
+        "0_472",
+        "Blue Cards$"
+    ],
+    [
+        "0_473",
+        "SlowpokeTails$"
+    ],
+    [
+        "0_474",
+        "Clear Bells$"
+    ],
+    [
+        "0_475",
+        "Card Keys$"
+    ],
+    [
+        "0_476",
+        "Basement Keys$"
+    ],
+    [
+        "0_477",
+        "SquirtBottles$"
+    ],
+    [
+        "0_478",
+        "Red Scales$"
+    ],
+    [
+        "0_479",
+        "Lost Items$"
+    ],
+    [
+        "0_480",
+        "Passes$"
+    ],
+    [
+        "0_481",
+        "Machine Parts$"
+    ],
+    [
+        "0_482",
+        "Silver Wings$"
+    ],
+    [
+        "0_483",
+        "Rainbow Wings$"
+    ],
+    [
+        "0_484",
+        "Mystery Eggs$"
+    ],
+    [
+        "0_485",
+        "Red Apricorns$"
+    ],
+    [
+        "0_486",
+        "Blu Apricorns$"
+    ],
+    [
+        "0_487",
+        "Ylw Apricorns$"
+    ],
+    [
+        "0_488",
+        "Grn Apricorns$"
+    ],
+    [
+        "0_489",
+        "Pnk Apricorns$"
+    ],
+    [
+        "0_490",
+        "Wht Apricorns$"
+    ],
+    [
+        "0_491",
+        "Blk Apricorns$"
+    ],
+    [
+        "0_492",
+        "Fast Balls$"
+    ],
+    [
+        "0_493",
+        "Level Balls$"
+    ],
+    [
+        "0_494",
+        "Lure Balls$"
+    ],
+    [
+        "0_495",
+        "Heavy Balls$"
+    ],
+    [
+        "0_496",
+        "Love Balls$"
+    ],
+    [
+        "0_497",
+        "Friend Balls$"
+    ],
+    [
+        "0_498",
+        "Moon Balls$"
+    ],
+    [
+        "0_499",
+        "Sport Balls$"
+    ],
+    [
+        "0_500",
+        "Park Balls$"
+    ],
+    [
+        "0_501",
+        "Photo Albums$"
+    ],
+    [
+        "0_502",
+        "GB Sounds$"
+    ],
+    [
+        "0_503",
+        "Tidal Bells$"
+    ],
+    [
+        "0_504",
+        "RageCandyBars$"
+    ],
+    [
+        "0_505",
+        "Data Card 01s$"
+    ],
+    [
+        "0_506",
+        "Data Card 02s$"
+    ],
+    [
+        "0_507",
+        "Data Card 03s$"
+    ],
+    [
+        "0_508",
+        "Data Card 04s$"
+    ],
+    [
+        "0_509",
+        "Data Card 05s$"
+    ],
+    [
+        "0_510",
+        "Data Card 06s$"
+    ],
+    [
+        "0_511",
+        "Data Card 07s$"
+    ],
+    [
+        "0_512",
+        "Data Card 08s$"
+    ],
+    [
+        "0_513",
+        "Data Card 09s$"
+    ],
+    [
+        "0_514",
+        "Data Card 10s$"
+    ],
+    [
+        "0_515",
+        "Data Card 11s$"
+    ],
+    [
+        "0_516",
+        "Data Card 12s$"
+    ],
+    [
+        "0_517",
+        "Data Card 13s$"
+    ],
+    [
+        "0_518",
+        "Data Card 14s$"
+    ],
+    [
+        "0_519",
+        "Data Card 15s$"
+    ],
+    [
+        "0_520",
+        "Data Card 16s$"
+    ],
+    [
+        "0_521",
+        "Data Card 17s$"
+    ],
+    [
+        "0_522",
+        "Data Card 18s$"
+    ],
+    [
+        "0_523",
+        "Data Card 19s$"
+    ],
+    [
+        "0_524",
+        "Data Card 20s$"
+    ],
+    [
+        "0_525",
+        "Data Card 21s$"
+    ],
+    [
+        "0_526",
+        "Data Card 22s$"
+    ],
+    [
+        "0_527",
+        "Data Card 23s$"
+    ],
+    [
+        "0_528",
+        "Data Card 24s$"
+    ],
+    [
+        "0_529",
+        "Data Card 25s$"
+    ],
+    [
+        "0_530",
+        "Data Card 26s$"
+    ],
+    [
+        "0_531",
+        "Data Card 27s$"
+    ],
+    [
+        "0_532",
+        "Jade Orbs$"
+    ],
+    [
+        "0_533",
+        "Lock Capsules$"
+    ],
+    [
+        "0_534",
+        "Red Orbs$"
+    ],
+    [
+        "0_535",
+        "Blue Orbs$"
+    ],
+    [
+        "0_536",
+        "Enigma Stones$"
+    ],
+    [
+        "0_537",
+        "Prism Scales$"
+    ],
+    [
+        "0_538",
+        "Eviolites$"
+    ],
+    [
+        "0_539",
+        "Float Stones$"
+    ],
+    [
+        "0_540",
+        "Rocky Helmets$"
+    ],
+    [
+        "0_541",
+        "Air Balloons$"
+    ],
+    [
+        "0_542",
+        "Red Cards$"
+    ],
+    [
+        "0_543",
+        "Ring Targets$"
+    ],
+    [
+        "0_544",
+        "Binding Bands$"
+    ],
+    [
+        "0_545",
+        "Absorb Bulbs$"
+    ],
+    [
+        "0_546",
+        "Cell Batteries$"
+    ],
+    [
+        "0_547",
+        "Eject Buttons$"
+    ],
+    [
+        "0_548",
+        "Fire Gems$"
+    ],
+    [
+        "0_549",
+        "Water Gems$"
+    ],
+    [
+        "0_550",
+        "Electric Gems$"
+    ],
+    [
+        "0_551",
+        "Grass Gems$"
+    ],
+    [
+        "0_552",
+        "Ice Gems$"
+    ],
+    [
+        "0_553",
+        "Fighting Gems$"
+    ],
+    [
+        "0_554",
+        "Poison Gems$"
+    ],
+    [
+        "0_555",
+        "Ground Gems$"
+    ],
+    [
+        "0_556",
+        "Flying Gems$"
+    ],
+    [
+        "0_557",
+        "Psychic Gems$"
+    ],
+    [
+        "0_558",
+        "Bug Gems$"
+    ],
+    [
+        "0_559",
+        "Rock Gems$"
+    ],
+    [
+        "0_560",
+        "Ghost Gems$"
+    ],
+    [
+        "0_561",
+        "Dragon Gems$"
+    ],
+    [
+        "0_562",
+        "Dark Gems$"
+    ],
+    [
+        "0_563",
+        "Steel Gems$"
+    ],
+    [
+        "0_564",
+        "Normal Gems$"
+    ],
+    [
+        "0_565",
+        "Health Wings$"
+    ],
+    [
+        "0_566",
+        "Muscle Wings$"
+    ],
+    [
+        "0_567",
+        "Resist Wings$"
+    ],
+    [
+        "0_568",
+        "Genius Wings$"
+    ],
+    [
+        "0_569",
+        "Clever Wings$"
+    ],
+    [
+        "0_570",
+        "Swift Wings$"
+    ],
+    [
+        "0_571",
+        "Pretty Wings$"
+    ],
+    [
+        "0_572",
+        "Cover Fossils$"
+    ],
+    [
+        "0_573",
+        "Plume Fossils$"
+    ],
+    [
+        "0_574",
+        "Liberty Passes$"
+    ],
+    [
+        "0_575",
+        "Pass Orbs$"
+    ],
+    [
+        "0_576",
+        "Dream Balls$"
+    ],
+    [
+        "0_577",
+        "Poké Toys$"
+    ],
+    [
+        "0_578",
+        "Prop Cases$"
+    ],
+    [
+        "0_579",
+        "Dragon Skulls$"
+    ],
+    [
+        "0_580",
+        "BalmMushrooms$"
+    ],
+    [
+        "0_581",
+        "Big Nuggets$"
+    ],
+    [
+        "0_582",
+        "Pearl Strings$"
+    ],
+    [
+        "0_583",
+        "Comet Shards$"
+    ],
+    [
+        "0_584",
+        "Relic Coppers$"
+    ],
+    [
+        "0_585",
+        "Relic Silvers$"
+    ],
+    [
+        "0_586",
+        "Relic Golds$"
+    ],
+    [
+        "0_587",
+        "Relic Vases$"
+    ],
+    [
+        "0_588",
+        "Relic Bands$"
+    ],
+    [
+        "0_589",
+        "Relic Statues$"
+    ],
+    [
+        "0_590",
+        "Relic Crowns$"
+    ],
+    [
+        "0_591",
+        "Casteliacones$"
+    ],
+    [
+        "0_592",
+        "Dire Hit 2s$"
+    ],
+    [
+        "0_593",
+        "X Speed 2s$"
+    ],
+    [
+        "0_594",
+        "X Special 2s$"
+    ],
+    [
+        "0_595",
+        "X Sp. Def 2s$"
+    ],
+    [
+        "0_596",
+        "X Defend 2s$"
+    ],
+    [
+        "0_597",
+        "X Attack 2s$"
+    ],
+    [
+        "0_598",
+        "X Accuracy 2s$"
+    ],
+    [
+        "0_599",
+        "X Speed 3s$"
+    ],
+    [
+        "0_600",
+        "X Special 3s$"
+    ],
+    [
+        "0_601",
+        "X Sp. Def 3s$"
+    ],
+    [
+        "0_602",
+        "X Defend 3s$"
+    ],
+    [
+        "0_603",
+        "X Attack 3s$"
+    ],
+    [
+        "0_604",
+        "X Accuracy 3s$"
+    ],
+    [
+        "0_605",
+        "X Speed 6s$"
+    ],
+    [
+        "0_606",
+        "X Special 6s$"
+    ],
+    [
+        "0_607",
+        "X Sp. Def 6s$"
+    ],
+    [
+        "0_608",
+        "X Defend 6s$"
+    ],
+    [
+        "0_609",
+        "X Attack 6s$"
+    ],
+    [
+        "0_610",
+        "X Accuracy 6s$"
+    ],
+    [
+        "0_611",
+        "Ability Urges$"
+    ],
+    [
+        "0_612",
+        "Item Drops$"
+    ],
+    [
+        "0_613",
+        "Item Urges$"
+    ],
+    [
+        "0_614",
+        "Reset Urges$"
+    ],
+    [
+        "0_615",
+        "Dire Hit 3s$"
+    ],
+    [
+        "0_616",
+        "Light Stones$"
+    ],
+    [
+        "0_617",
+        "Dark Stones$"
+    ],
+    [
+        "0_618",
+        "TM93s$"
+    ],
+    [
+        "0_619",
+        "TM94s$"
+    ],
+    [
+        "0_620",
+        "TM95s$"
+    ],
+    [
+        "0_621",
+        "Xtransceivers$"
+    ],
+    [
+        "0_622",
+        "???$"
+    ],
+    [
+        "0_623",
+        "Gram 1s$"
+    ],
+    [
+        "0_624",
+        "Gram 2s$"
+    ],
+    [
+        "0_625",
+        "Gram 3s$"
+    ],
+    [
+        "0_626",
+        "Xtransceivers$"
+    ],
+    [
+        "0_627",
+        "Medal Boxes$"
+    ],
+    [
+        "0_628",
+        "DNA Splicers$"
+    ],
+    [
+        "0_629",
+        "DNA Splicers$"
+    ],
+    [
+        "0_630",
+        "Permits$"
+    ],
+    [
+        "0_631",
+        "Oval Charms$"
+    ],
+    [
+        "0_632",
+        "Shiny Charms$"
+    ],
+    [
+        "0_633",
+        "Plasma Cards$"
+    ],
+    [
+        "0_634",
+        "Grubby Hankies$"
+    ],
+    [
+        "0_635",
+        "Colress MCHNs$"
+    ],
+    [
+        "0_636",
+        "Dropped Items$"
+    ],
+    [
+        "0_637",
+        "Dropped Items$"
+    ],
+    [
+        "0_638",
+        "Reveal Glasses$"
+    ]
+]

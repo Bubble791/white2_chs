@@ -1,0 +1,3954 @@
+[
+    [
+        "0_0",
+        "Pokémon (?)$"
+    ],
+    [
+        "0_1",
+        "Pokémon Semilla$"
+    ],
+    [
+        "0_2",
+        "Pokémon Semilla$"
+    ],
+    [
+        "0_3",
+        "Pokémon Semilla$"
+    ],
+    [
+        "0_4",
+        "Pokémon Lagartija$"
+    ],
+    [
+        "0_5",
+        "Pokémon Llama$"
+    ],
+    [
+        "0_6",
+        "Pokémon Llama$"
+    ],
+    [
+        "0_7",
+        "Pokémon Tortuguita$"
+    ],
+    [
+        "0_8",
+        "Pokémon Tortuga$"
+    ],
+    [
+        "0_9",
+        "Pokémon Marisco$"
+    ],
+    [
+        "0_10",
+        "Pokémon Gusano$"
+    ],
+    [
+        "0_11",
+        "Pokémon Capullo$"
+    ],
+    [
+        "0_12",
+        "Pokémon Mariposa$"
+    ],
+    [
+        "0_13",
+        "Pokémon Oruga$"
+    ],
+    [
+        "0_14",
+        "Pokémon Capullo$"
+    ],
+    [
+        "0_15",
+        "Pokémon Abeja Ven.$"
+    ],
+    [
+        "0_16",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "0_17",
+        "Pokémon Pájaro$"
+    ],
+    [
+        "0_18",
+        "Pokémon Pájaro$"
+    ],
+    [
+        "0_19",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_20",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_21",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "0_22",
+        "Pokémon Pico$"
+    ],
+    [
+        "0_23",
+        "Pokémon Serpiente$"
+    ],
+    [
+        "0_24",
+        "Pokémon Cobra$"
+    ],
+    [
+        "0_25",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_26",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_27",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_28",
+        "Pokémon Ratón$"
+    ],
+    [
+        "0_29",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "0_30",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "0_31",
+        "Pokémon Taladro$"
+    ],
+    [
+        "0_32",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "0_33",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "0_34",
+        "Pokémon Taladro$"
+    ],
+    [
+        "0_35",
+        "Pokémon Hada$"
+    ],
+    [
+        "0_36",
+        "Pokémon Hada$"
+    ],
+    [
+        "0_37",
+        "Pokémon Zorro$"
+    ],
+    [
+        "0_38",
+        "Pokémon Zorro$"
+    ],
+    [
+        "0_39",
+        "Pokémon Globo$"
+    ],
+    [
+        "0_40",
+        "Pokémon Globo$"
+    ],
+    [
+        "0_41",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "0_42",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "0_43",
+        "Pokémon Hierbajo$"
+    ],
+    [
+        "0_44",
+        "Pokémon Hierbajo$"
+    ],
+    [
+        "0_45",
+        "Pokémon Flor$"
+    ],
+    [
+        "0_46",
+        "Pokémon Hongo$"
+    ],
+    [
+        "0_47",
+        "Pokémon Hongo$"
+    ],
+    [
+        "0_48",
+        "Pokémon Insecto$"
+    ],
+    [
+        "0_49",
+        "Pokémon Polilla V.$"
+    ],
+    [
+        "0_50",
+        "Pokémon Topo$"
+    ],
+    [
+        "0_51",
+        "Pokémon Topo$"
+    ],
+    [
+        "0_52",
+        "Pokémon Gato Araña$"
+    ],
+    [
+        "0_53",
+        "Pokémon Gato Fino$"
+    ],
+    [
+        "0_54",
+        "Pokémon Pato$"
+    ],
+    [
+        "0_55",
+        "Pokémon Pato$"
+    ],
+    [
+        "0_56",
+        "Pokémon Mono Cerdo$"
+    ],
+    [
+        "0_57",
+        "Pokémon Mono Cerdo$"
+    ],
+    [
+        "0_58",
+        "Pokémon Perrito$"
+    ],
+    [
+        "0_59",
+        "Pokémon Legendario$"
+    ],
+    [
+        "0_60",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "0_61",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "0_62",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "0_63",
+        "Pokémon Psi$"
+    ],
+    [
+        "0_64",
+        "Pokémon Psi$"
+    ],
+    [
+        "0_65",
+        "Pokémon Psi$"
+    ],
+    [
+        "0_66",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "0_67",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "0_68",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "0_69",
+        "Pokémon Flor$"
+    ],
+    [
+        "0_70",
+        "Pokémon Matamoscas$"
+    ],
+    [
+        "0_71",
+        "Pokémon Matamoscas$"
+    ],
+    [
+        "0_72",
+        "Pokémon Medusa$"
+    ],
+    [
+        "0_73",
+        "Pokémon Medusa$"
+    ],
+    [
+        "0_74",
+        "Pokémon Roca$"
+    ],
+    [
+        "0_75",
+        "Pokémon Roca$"
+    ],
+    [
+        "0_76",
+        "Pokémon Megatón$"
+    ],
+    [
+        "0_77",
+        "Pokémon Caballo F.$"
+    ],
+    [
+        "0_78",
+        "Pokémon Caballo F.$"
+    ],
+    [
+        "0_79",
+        "Pokémon Atontado$"
+    ],
+    [
+        "0_80",
+        "Pokémon Ermitaño$"
+    ],
+    [
+        "0_81",
+        "Pokémon Imán$"
+    ],
+    [
+        "0_82",
+        "Pokémon Imán$"
+    ],
+    [
+        "0_83",
+        "Pokémon Pato Salv.$"
+    ],
+    [
+        "0_84",
+        "Pokémon Ave Gemela$"
+    ],
+    [
+        "0_85",
+        "Pokémon Ave Triple$"
+    ],
+    [
+        "0_86",
+        "Pokémon León Mar.$"
+    ],
+    [
+        "0_87",
+        "Pokémon León Mar.$"
+    ],
+    [
+        "0_88",
+        "Pokémon Lodo$"
+    ],
+    [
+        "0_89",
+        "Pokémon Lodo$"
+    ],
+    [
+        "0_90",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "0_91",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "0_92",
+        "Pokémon Gas$"
+    ],
+    [
+        "0_93",
+        "Pokémon Gas$"
+    ],
+    [
+        "0_94",
+        "Pokémon Sombra$"
+    ],
+    [
+        "0_95",
+        "Pokémon Serp. Roca$"
+    ],
+    [
+        "0_96",
+        "Pokémon Hipnosis$"
+    ],
+    [
+        "0_97",
+        "Pokémon Hipnosis$"
+    ],
+    [
+        "0_98",
+        "Pokémon Cangrejo$"
+    ],
+    [
+        "0_99",
+        "Pokémon Tenaza$"
+    ],
+    [
+        "0_100",
+        "Pokémon Bola$"
+    ],
+    [
+        "0_101",
+        "Pokémon Bola$"
+    ],
+    [
+        "0_102",
+        "Pokémon Huevo$"
+    ],
+    [
+        "0_103",
+        "Pokémon Coco$"
+    ],
+    [
+        "0_104",
+        "Pokémon Solitario$"
+    ],
+    [
+        "0_105",
+        "Pokémon Apilahueso$"
+    ],
+    [
+        "0_106",
+        "Pokémon Patada$"
+    ],
+    [
+        "0_107",
+        "Pokémon Puñetazo$"
+    ],
+    [
+        "0_108",
+        "Pokémon Lametazo$"
+    ],
+    [
+        "0_109",
+        "Pokémon Gas Veneno$"
+    ],
+    [
+        "0_110",
+        "Pokémon Gas Veneno$"
+    ],
+    [
+        "0_111",
+        "Pokémon Clavos$"
+    ],
+    [
+        "0_112",
+        "Pokémon Taladro$"
+    ],
+    [
+        "0_113",
+        "Pokémon Huevo$"
+    ],
+    [
+        "0_114",
+        "Pokémon Enredadera$"
+    ],
+    [
+        "0_115",
+        "Pokémon Padres$"
+    ],
+    [
+        "0_116",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_117",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_118",
+        "Pokémon Pez Color$"
+    ],
+    [
+        "0_119",
+        "Pokémon Pez Color$"
+    ],
+    [
+        "0_120",
+        "Pokémon Estrellada$"
+    ],
+    [
+        "0_121",
+        "Pokémon Misterioso$"
+    ],
+    [
+        "0_122",
+        "Pokémon Barrera$"
+    ],
+    [
+        "0_123",
+        "Pokémon Mantis$"
+    ],
+    [
+        "0_124",
+        "Pokémon F. Humana$"
+    ],
+    [
+        "0_125",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "0_126",
+        "Pokémon Escupfuego$"
+    ],
+    [
+        "0_127",
+        "Pokémon Escarabajo$"
+    ],
+    [
+        "0_128",
+        "Pokémon Toro Bravo$"
+    ],
+    [
+        "0_129",
+        "Pokémon Pez$"
+    ],
+    [
+        "0_130",
+        "Pokémon Atrocidad$"
+    ],
+    [
+        "0_131",
+        "Pokémon Transporte$"
+    ],
+    [
+        "0_132",
+        "Pokémon Transform.$"
+    ],
+    [
+        "0_133",
+        "Pokémon Evolución$"
+    ],
+    [
+        "0_134",
+        "Pokémon Burbuja$"
+    ],
+    [
+        "0_135",
+        "Pokémon Relámpago$"
+    ],
+    [
+        "0_136",
+        "Pokémon Llama$"
+    ],
+    [
+        "0_137",
+        "Pokémon Virtual$"
+    ],
+    [
+        "0_138",
+        "Pokémon Espiral$"
+    ],
+    [
+        "0_139",
+        "Pokémon Espiral$"
+    ],
+    [
+        "0_140",
+        "Pokémon Marisco$"
+    ],
+    [
+        "0_141",
+        "Pokémon Marisco$"
+    ],
+    [
+        "0_142",
+        "Pokémon Fósil$"
+    ],
+    [
+        "0_143",
+        "Pokémon Dormir$"
+    ],
+    [
+        "0_144",
+        "Pokémon Congelar$"
+    ],
+    [
+        "0_145",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "0_146",
+        "Pokémon Llama$"
+    ],
+    [
+        "0_147",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_148",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_149",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_150",
+        "Pokémon Genético$"
+    ],
+    [
+        "0_151",
+        "Pokémon N. Especie$"
+    ],
+    [
+        "0_152",
+        "Pokémon Hoja$"
+    ],
+    [
+        "0_153",
+        "Pokémon Hoja$"
+    ],
+    [
+        "0_154",
+        "Pokémon Hierba$"
+    ],
+    [
+        "0_155",
+        "Pokémon Ratónfuego$"
+    ],
+    [
+        "0_156",
+        "Pokémon Volcán$"
+    ],
+    [
+        "0_157",
+        "Pokémon Volcán$"
+    ],
+    [
+        "0_158",
+        "Pokémon Fauces$"
+    ],
+    [
+        "0_159",
+        "Pokémon Fauces$"
+    ],
+    [
+        "0_160",
+        "Pokémon Fauces$"
+    ],
+    [
+        "0_161",
+        "Pokémon Explorador$"
+    ],
+    [
+        "0_162",
+        "Pokémon Alargado$"
+    ],
+    [
+        "0_163",
+        "Pokémon Búho$"
+    ],
+    [
+        "0_164",
+        "Pokémon Búho$"
+    ],
+    [
+        "0_165",
+        "Pokémon 5estrellas$"
+    ],
+    [
+        "0_166",
+        "Pokémon 5estrellas$"
+    ],
+    [
+        "0_167",
+        "Pokémon Escupesoga$"
+    ],
+    [
+        "0_168",
+        "Pokémon Pata Larga$"
+    ],
+    [
+        "0_169",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "0_170",
+        "Pokémon Rape$"
+    ],
+    [
+        "0_171",
+        "Pokémon Luz$"
+    ],
+    [
+        "0_172",
+        "Pokémon Ratoncito$"
+    ],
+    [
+        "0_173",
+        "Pokémon Estrellada$"
+    ],
+    [
+        "0_174",
+        "Pokémon Globo$"
+    ],
+    [
+        "0_175",
+        "Pokémon Bolaclavos$"
+    ],
+    [
+        "0_176",
+        "Pokémon Felicidad$"
+    ],
+    [
+        "0_177",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "0_178",
+        "Pokémon Místico$"
+    ],
+    [
+        "0_179",
+        "Pokémon Lana$"
+    ],
+    [
+        "0_180",
+        "Pokémon Lana$"
+    ],
+    [
+        "0_181",
+        "Pokémon Luz$"
+    ],
+    [
+        "0_182",
+        "Pokémon Flor$"
+    ],
+    [
+        "0_183",
+        "Pokémon Ratón Agua$"
+    ],
+    [
+        "0_184",
+        "Pokémon Conejoagua$"
+    ],
+    [
+        "0_185",
+        "Pokémon Imitación$"
+    ],
+    [
+        "0_186",
+        "Pokémon Rana$"
+    ],
+    [
+        "0_187",
+        "Pokémon Algadón$"
+    ],
+    [
+        "0_188",
+        "Pokémon Algadón$"
+    ],
+    [
+        "0_189",
+        "Pokémon Algadón$"
+    ],
+    [
+        "0_190",
+        "Pokémon Cola Larga$"
+    ],
+    [
+        "0_191",
+        "Pokémon Semilla$"
+    ],
+    [
+        "0_192",
+        "Pokémon Sol$"
+    ],
+    [
+        "0_193",
+        "Pokémon Ala Clara$"
+    ],
+    [
+        "0_194",
+        "Pokémon Pez Agua$"
+    ],
+    [
+        "0_195",
+        "Pokémon Pez Agua$"
+    ],
+    [
+        "0_196",
+        "Pokémon Sol$"
+    ],
+    [
+        "0_197",
+        "Pokémon Luz Lunar$"
+    ],
+    [
+        "0_198",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "0_199",
+        "Pokémon Regio$"
+    ],
+    [
+        "0_200",
+        "Pokémon Chirrido$"
+    ],
+    [
+        "0_201",
+        "Pokémon Símbolo$"
+    ],
+    [
+        "0_202",
+        "Pokémon Paciente$"
+    ],
+    [
+        "0_203",
+        "Pokémon Grancuello$"
+    ],
+    [
+        "0_204",
+        "Pokémon Larva$"
+    ],
+    [
+        "0_205",
+        "Pokémon Larva$"
+    ],
+    [
+        "0_206",
+        "Pokémon Serptierra$"
+    ],
+    [
+        "0_207",
+        "Pokémon Escorpiala$"
+    ],
+    [
+        "0_208",
+        "Pokémon Serpférrea$"
+    ],
+    [
+        "0_209",
+        "Pokémon Hada$"
+    ],
+    [
+        "0_210",
+        "Pokémon Hada$"
+    ],
+    [
+        "0_211",
+        "Pokémon Globo$"
+    ],
+    [
+        "0_212",
+        "Pokémon Tenaza$"
+    ],
+    [
+        "0_213",
+        "Pokémon Moho$"
+    ],
+    [
+        "0_214",
+        "Pokémon Unicornio$"
+    ],
+    [
+        "0_215",
+        "Pokémon Garra Filo$"
+    ],
+    [
+        "0_216",
+        "Pokémon Osito$"
+    ],
+    [
+        "0_217",
+        "Pokémon Hibernante$"
+    ],
+    [
+        "0_218",
+        "Pokémon Lava$"
+    ],
+    [
+        "0_219",
+        "Pokémon Lava$"
+    ],
+    [
+        "0_220",
+        "Pokémon Cerdo$"
+    ],
+    [
+        "0_221",
+        "Pokémon Puerco$"
+    ],
+    [
+        "0_222",
+        "Pokémon Coral$"
+    ],
+    [
+        "0_223",
+        "Pokémon Reactor$"
+    ],
+    [
+        "0_224",
+        "Pokémon Reactor$"
+    ],
+    [
+        "0_225",
+        "Pokémon Reparto$"
+    ],
+    [
+        "0_226",
+        "Pokémon Milano$"
+    ],
+    [
+        "0_227",
+        "Pokémon Coraza Ave$"
+    ],
+    [
+        "0_228",
+        "Pokémon Siniestro$"
+    ],
+    [
+        "0_229",
+        "Pokémon Siniestro$"
+    ],
+    [
+        "0_230",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_231",
+        "Pokémon Narizotas$"
+    ],
+    [
+        "0_232",
+        "Pokémon Coraza$"
+    ],
+    [
+        "0_233",
+        "Pokémon Virtual$"
+    ],
+    [
+        "0_234",
+        "Pokémon Grancuerno$"
+    ],
+    [
+        "0_235",
+        "Pokémon Pintor$"
+    ],
+    [
+        "0_236",
+        "Pokémon Peleón$"
+    ],
+    [
+        "0_237",
+        "Pokémon Boca Abajo$"
+    ],
+    [
+        "0_238",
+        "Pokémon Beso$"
+    ],
+    [
+        "0_239",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "0_240",
+        "Pokémon Ascuas$"
+    ],
+    [
+        "0_241",
+        "Pokémon Lechera$"
+    ],
+    [
+        "0_242",
+        "Pokémon Felicidad$"
+    ],
+    [
+        "0_243",
+        "Pokémon Trueno$"
+    ],
+    [
+        "0_244",
+        "Pokémon Volcán$"
+    ],
+    [
+        "0_245",
+        "Pokémon Aurora$"
+    ],
+    [
+        "0_246",
+        "Pokémon Piel Roca$"
+    ],
+    [
+        "0_247",
+        "Pokémon Caparazón$"
+    ],
+    [
+        "0_248",
+        "Pokémon Coraza$"
+    ],
+    [
+        "0_249",
+        "Pokémon Buceo$"
+    ],
+    [
+        "0_250",
+        "Pokémon Arco Iris$"
+    ],
+    [
+        "0_251",
+        "Pokémon Viajetiempo$"
+    ],
+    [
+        "0_252",
+        "Pokémon Geco Bosque$"
+    ],
+    [
+        "0_253",
+        "Pokémon Geco Bosque$"
+    ],
+    [
+        "0_254",
+        "Pokémon Monte$"
+    ],
+    [
+        "0_255",
+        "Pokémon Polluelo$"
+    ],
+    [
+        "0_256",
+        "Pokémon Ave Corral$"
+    ],
+    [
+        "0_257",
+        "Pokémon Llameante$"
+    ],
+    [
+        "0_258",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "0_259",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "0_260",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "0_261",
+        "Pokémon Mordisco$"
+    ],
+    [
+        "0_262",
+        "Pokémon Mordisco$"
+    ],
+    [
+        "0_263",
+        "Pokémon Mapachito$"
+    ],
+    [
+        "0_264",
+        "Pokémon Lanzado$"
+    ],
+    [
+        "0_265",
+        "Pokémon Gusano$"
+    ],
+    [
+        "0_266",
+        "Pokémon Capullo$"
+    ],
+    [
+        "0_267",
+        "Pokémon Mariposa$"
+    ],
+    [
+        "0_268",
+        "Pokémon Capullo$"
+    ],
+    [
+        "0_269",
+        "Pokémon Polilla V.$"
+    ],
+    [
+        "0_270",
+        "Pokémon Alga$"
+    ],
+    [
+        "0_271",
+        "Pokémon Alegre$"
+    ],
+    [
+        "0_272",
+        "Pokémon Optimista$"
+    ],
+    [
+        "0_273",
+        "Pokémon Bellota$"
+    ],
+    [
+        "0_274",
+        "Pokémon Astuto$"
+    ],
+    [
+        "0_275",
+        "Pokémon Malvado$"
+    ],
+    [
+        "0_276",
+        "Pokémon Pequebuche$"
+    ],
+    [
+        "0_277",
+        "Pokémon Buche$"
+    ],
+    [
+        "0_278",
+        "Pokémon Gaviota$"
+    ],
+    [
+        "0_279",
+        "Pokémon Ave Agua$"
+    ],
+    [
+        "0_280",
+        "Pokémon Sensible$"
+    ],
+    [
+        "0_281",
+        "Pokémon Sensorio$"
+    ],
+    [
+        "0_282",
+        "Pokémon Envolvente$"
+    ],
+    [
+        "0_283",
+        "Pokémon Zapatero$"
+    ],
+    [
+        "0_284",
+        "Pokémon Globocular$"
+    ],
+    [
+        "0_285",
+        "Pokémon Hongo$"
+    ],
+    [
+        "0_286",
+        "Pokémon Hongo$"
+    ],
+    [
+        "0_287",
+        "Pokémon Gandul$"
+    ],
+    [
+        "0_288",
+        "Pokémon Mono Feroz$"
+    ],
+    [
+        "0_289",
+        "Pokémon Holgazán$"
+    ],
+    [
+        "0_290",
+        "Pokémon Aprendiz$"
+    ],
+    [
+        "0_291",
+        "Pokémon Ninja$"
+    ],
+    [
+        "0_292",
+        "Pokémon Muda$"
+    ],
+    [
+        "0_293",
+        "Pokémon Susurro$"
+    ],
+    [
+        "0_294",
+        "Pokémon Chillón$"
+    ],
+    [
+        "0_295",
+        "Pokémon Escandaloso$"
+    ],
+    [
+        "0_296",
+        "Pokémon Valiente$"
+    ],
+    [
+        "0_297",
+        "Pokémon Empuje$"
+    ],
+    [
+        "0_298",
+        "Pokémon A Topos$"
+    ],
+    [
+        "0_299",
+        "Pokémon Brújula$"
+    ],
+    [
+        "0_300",
+        "Pokémon Gatito$"
+    ],
+    [
+        "0_301",
+        "Pokémon Cursi$"
+    ],
+    [
+        "0_302",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "0_303",
+        "Pokémon Tramposo$"
+    ],
+    [
+        "0_304",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "0_305",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "0_306",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "0_307",
+        "Pokémon Meditador$"
+    ],
+    [
+        "0_308",
+        "Pokémon Meditador$"
+    ],
+    [
+        "0_309",
+        "Pokémon Calambre$"
+    ],
+    [
+        "0_310",
+        "Pokémon Descarga$"
+    ],
+    [
+        "0_311",
+        "Pokémon Ánimo$"
+    ],
+    [
+        "0_312",
+        "Pokémon Ánimo$"
+    ],
+    [
+        "0_313",
+        "Pokémon Luciérnaga$"
+    ],
+    [
+        "0_314",
+        "Pokémon Luciérnaga$"
+    ],
+    [
+        "0_315",
+        "Pokémon Espina$"
+    ],
+    [
+        "0_316",
+        "Pokémon Estómago$"
+    ],
+    [
+        "0_317",
+        "Pokémon Bolsa Ven.$"
+    ],
+    [
+        "0_318",
+        "Pokémon Feroz$"
+    ],
+    [
+        "0_319",
+        "Pokémon Voraz$"
+    ],
+    [
+        "0_320",
+        "Pokémon Ballenabola$"
+    ],
+    [
+        "0_321",
+        "Pokémon Ballenaflot$"
+    ],
+    [
+        "0_322",
+        "Pokémon Torpe$"
+    ],
+    [
+        "0_323",
+        "Pokémon Erupción$"
+    ],
+    [
+        "0_324",
+        "Pokémon Carbón$"
+    ],
+    [
+        "0_325",
+        "Pokémon Saltarín$"
+    ],
+    [
+        "0_326",
+        "Pokémon Manipulador$"
+    ],
+    [
+        "0_327",
+        "Pokémon Panda Topos$"
+    ],
+    [
+        "0_328",
+        "Pokémon Hormigaleón$"
+    ],
+    [
+        "0_329",
+        "Pokémon Vibrante$"
+    ],
+    [
+        "0_330",
+        "Pokémon Místico$"
+    ],
+    [
+        "0_331",
+        "Pokémon Cactus$"
+    ],
+    [
+        "0_332",
+        "Pokémon Espantajo$"
+    ],
+    [
+        "0_333",
+        "Pokémon Ave Algodón$"
+    ],
+    [
+        "0_334",
+        "Pokémon Cantor$"
+    ],
+    [
+        "0_335",
+        "Pokémon Gato Hurón$"
+    ],
+    [
+        "0_336",
+        "Pokémon Colmillos$"
+    ],
+    [
+        "0_337",
+        "Pokémon Meteorito$"
+    ],
+    [
+        "0_338",
+        "Pokémon Meteorito$"
+    ],
+    [
+        "0_339",
+        "Pokémon Bigotudo$"
+    ],
+    [
+        "0_340",
+        "Pokémon Bigotudo$"
+    ],
+    [
+        "0_341",
+        "Pokémon Rufián$"
+    ],
+    [
+        "0_342",
+        "Pokémon Granuja$"
+    ],
+    [
+        "0_343",
+        "Pokémon Muñ. Barro$"
+    ],
+    [
+        "0_344",
+        "Pokémon Muñ. Barro$"
+    ],
+    [
+        "0_345",
+        "Pokémon Lila Mar$"
+    ],
+    [
+        "0_346",
+        "Pokémon Percebe$"
+    ],
+    [
+        "0_347",
+        "Pokémon Camarón$"
+    ],
+    [
+        "0_348",
+        "Pokémon Armadura$"
+    ],
+    [
+        "0_349",
+        "Pokémon Pez$"
+    ],
+    [
+        "0_350",
+        "Pokémon Tierno$"
+    ],
+    [
+        "0_351",
+        "Pokémon Clima$"
+    ],
+    [
+        "0_352",
+        "Pokémon Camaleónico$"
+    ],
+    [
+        "0_353",
+        "Pokémon Títere$"
+    ],
+    [
+        "0_354",
+        "Pokémon Marioneta$"
+    ],
+    [
+        "0_355",
+        "Pokémon Réquiem$"
+    ],
+    [
+        "0_356",
+        "Pokémon Atrayente$"
+    ],
+    [
+        "0_357",
+        "Pokémon Fruto$"
+    ],
+    [
+        "0_358",
+        "Pokémon Sonido Aire$"
+    ],
+    [
+        "0_359",
+        "Pokémon Catástrofe$"
+    ],
+    [
+        "0_360",
+        "Pokémon Radiante$"
+    ],
+    [
+        "0_361",
+        "Pokémon Gorro Nieve$"
+    ],
+    [
+        "0_362",
+        "Pokémon Cara$"
+    ],
+    [
+        "0_363",
+        "Pokémon Aplauso$"
+    ],
+    [
+        "0_364",
+        "Pokémon Rodabola$"
+    ],
+    [
+        "0_365",
+        "Pokémon Rompehielo$"
+    ],
+    [
+        "0_366",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "0_367",
+        "Pokémon Abisal$"
+    ],
+    [
+        "0_368",
+        "Pokémon Mar Del Sur$"
+    ],
+    [
+        "0_369",
+        "Pokémon Longevo$"
+    ],
+    [
+        "0_370",
+        "Pokémon Cita$"
+    ],
+    [
+        "0_371",
+        "Pokémon Cabeza Roca$"
+    ],
+    [
+        "0_372",
+        "Pokémon Resistencia$"
+    ],
+    [
+        "0_373",
+        "Pokémon Dragón$"
+    ],
+    [
+        "0_374",
+        "Pokémon Bola Hierro$"
+    ],
+    [
+        "0_375",
+        "Pokémon Garrahierro$"
+    ],
+    [
+        "0_376",
+        "Pokémon Pata Hierro$"
+    ],
+    [
+        "0_377",
+        "Pokémon Pico Roca$"
+    ],
+    [
+        "0_378",
+        "Pokémon Iceberg$"
+    ],
+    [
+        "0_379",
+        "Pokémon Hierro$"
+    ],
+    [
+        "0_380",
+        "Pokémon Eón$"
+    ],
+    [
+        "0_381",
+        "Pokémon Eón$"
+    ],
+    [
+        "0_382",
+        "Pokémon Cuenca Mar$"
+    ],
+    [
+        "0_383",
+        "Pokémon Continente$"
+    ],
+    [
+        "0_384",
+        "Pokémon Cielo$"
+    ],
+    [
+        "0_385",
+        "Pokémon Deseo$"
+    ],
+    [
+        "0_386",
+        "Pokémon ADN$"
+    ],
+    [
+        "0_387",
+        "Pokémon Hojita$"
+    ],
+    [
+        "0_388",
+        "Pokémon Arboleda$"
+    ],
+    [
+        "0_389",
+        "Pokémon Continente$"
+    ],
+    [
+        "0_390",
+        "Pokémon Chimpancé$"
+    ],
+    [
+        "0_391",
+        "Pokémon Juguetón$"
+    ],
+    [
+        "0_392",
+        "Pokémon Llama$"
+    ],
+    [
+        "0_393",
+        "Pokémon Pingüino$"
+    ],
+    [
+        "0_394",
+        "Pokémon Pingüino$"
+    ],
+    [
+        "0_395",
+        "Pokémon Emperador$"
+    ],
+    [
+        "0_396",
+        "Pokémon Estornino$"
+    ],
+    [
+        "0_397",
+        "Pokémon Estornino$"
+    ],
+    [
+        "0_398",
+        "Pokémon Depredador$"
+    ],
+    [
+        "0_399",
+        "Pokémon Gran Ratón$"
+    ],
+    [
+        "0_400",
+        "Pokémon Castor$"
+    ],
+    [
+        "0_401",
+        "Pokémon Grillo$"
+    ],
+    [
+        "0_402",
+        "Pokémon Grillo$"
+    ],
+    [
+        "0_403",
+        "Pokémon Flash$"
+    ],
+    [
+        "0_404",
+        "Pokémon Chispa$"
+    ],
+    [
+        "0_405",
+        "Pokémon Chispa Ojos$"
+    ],
+    [
+        "0_406",
+        "Pokémon Brote$"
+    ],
+    [
+        "0_407",
+        "Pokémon Ramillete$"
+    ],
+    [
+        "0_408",
+        "Pokémon Cabezazo$"
+    ],
+    [
+        "0_409",
+        "Pokémon Cabezazo$"
+    ],
+    [
+        "0_410",
+        "Pokémon Escudo$"
+    ],
+    [
+        "0_411",
+        "Pokémon Escudo$"
+    ],
+    [
+        "0_412",
+        "Pokémon Larva$"
+    ],
+    [
+        "0_413",
+        "Pokémon Larva$"
+    ],
+    [
+        "0_414",
+        "Pokémon Polilla$"
+    ],
+    [
+        "0_415",
+        "Pokémon Abejita$"
+    ],
+    [
+        "0_416",
+        "Pokémon Colmena$"
+    ],
+    [
+        "0_417",
+        "Pokémon Ardillalec$"
+    ],
+    [
+        "0_418",
+        "Pokémon Nutria Mar.$"
+    ],
+    [
+        "0_419",
+        "Pokémon Nutria Mar.$"
+    ],
+    [
+        "0_420",
+        "Pokémon Cereza$"
+    ],
+    [
+        "0_421",
+        "Pokémon Floración$"
+    ],
+    [
+        "0_422",
+        "Pokémon Babosa Mar.$"
+    ],
+    [
+        "0_423",
+        "Pokémon Babosa Mar.$"
+    ],
+    [
+        "0_424",
+        "Pokémon Cola Larga$"
+    ],
+    [
+        "0_425",
+        "Pokémon Globo$"
+    ],
+    [
+        "0_426",
+        "Pokémon Dirigible$"
+    ],
+    [
+        "0_427",
+        "Pokémon Conejo$"
+    ],
+    [
+        "0_428",
+        "Pokémon Conejo$"
+    ],
+    [
+        "0_429",
+        "Pokémon Mágico$"
+    ],
+    [
+        "0_430",
+        "Pokémon Gran Jefe$"
+    ],
+    [
+        "0_431",
+        "Pokémon Gastuto$"
+    ],
+    [
+        "0_432",
+        "Pokémon Tigre Gato$"
+    ],
+    [
+        "0_433",
+        "Pokémon Campana$"
+    ],
+    [
+        "0_434",
+        "Pokémon Mofeta$"
+    ],
+    [
+        "0_435",
+        "Pokémon Mofeta$"
+    ],
+    [
+        "0_436",
+        "Pokémon Bronce$"
+    ],
+    [
+        "0_437",
+        "Pokémon Cam. Bronce$"
+    ],
+    [
+        "0_438",
+        "Pokémon Bonsái$"
+    ],
+    [
+        "0_439",
+        "Pokémon Mimo$"
+    ],
+    [
+        "0_440",
+        "Pokémon Casita$"
+    ],
+    [
+        "0_441",
+        "Pokémon Corchea$"
+    ],
+    [
+        "0_442",
+        "Pokémon Prohibido$"
+    ],
+    [
+        "0_443",
+        "Pokémon Terrascualo$"
+    ],
+    [
+        "0_444",
+        "Pokémon Cueva$"
+    ],
+    [
+        "0_445",
+        "Pokémon Mach$"
+    ],
+    [
+        "0_446",
+        "Pokémon Comilón$"
+    ],
+    [
+        "0_447",
+        "Pokémon Emanación$"
+    ],
+    [
+        "0_448",
+        "Pokémon Aura$"
+    ],
+    [
+        "0_449",
+        "Pokémon Hipo$"
+    ],
+    [
+        "0_450",
+        "Pokémon Peso Pesado$"
+    ],
+    [
+        "0_451",
+        "Pokémon Escorpión$"
+    ],
+    [
+        "0_452",
+        "Pokémon Escorpiogro$"
+    ],
+    [
+        "0_453",
+        "Pokémon Boca Tóxica$"
+    ],
+    [
+        "0_454",
+        "Pokémon Boca Tóxica$"
+    ],
+    [
+        "0_455",
+        "Pokémon Caza Bichos$"
+    ],
+    [
+        "0_456",
+        "Pokémon Pez Ala$"
+    ],
+    [
+        "0_457",
+        "Pokémon Neón$"
+    ],
+    [
+        "0_458",
+        "Pokémon Milano$"
+    ],
+    [
+        "0_459",
+        "Pokémon Árbol Nieve$"
+    ],
+    [
+        "0_460",
+        "Pokémon Árbol Nieve$"
+    ],
+    [
+        "0_461",
+        "Pokémon Garra Filo$"
+    ],
+    [
+        "0_462",
+        "Pokémon Magnético$"
+    ],
+    [
+        "0_463",
+        "Pokémon Lametazo$"
+    ],
+    [
+        "0_464",
+        "Pokémon Taladro$"
+    ],
+    [
+        "0_465",
+        "Pokémon Enredadera$"
+    ],
+    [
+        "0_466",
+        "Pokémon Rayo$"
+    ],
+    [
+        "0_467",
+        "Pokémon Explosión$"
+    ],
+    [
+        "0_468",
+        "Pokémon Festejo$"
+    ],
+    [
+        "0_469",
+        "Pokémon Libélula$"
+    ],
+    [
+        "0_470",
+        "Pokémon Verdor$"
+    ],
+    [
+        "0_471",
+        "Pokémon Nievefresca$"
+    ],
+    [
+        "0_472",
+        "Pokémon Colmicorpio$"
+    ],
+    [
+        "0_473",
+        "Pokémon 2colmillos$"
+    ],
+    [
+        "0_474",
+        "Pokémon Virtual$"
+    ],
+    [
+        "0_475",
+        "Pokémon Cuchilla$"
+    ],
+    [
+        "0_476",
+        "Pokémon Brújula$"
+    ],
+    [
+        "0_477",
+        "Pokémon Grilletes$"
+    ],
+    [
+        "0_478",
+        "Pokémon Tierra Fría$"
+    ],
+    [
+        "0_479",
+        "Pokémon Plasma$"
+    ],
+    [
+        "0_480",
+        "Pokémon Sabiduría$"
+    ],
+    [
+        "0_481",
+        "Pokémon Sensorio$"
+    ],
+    [
+        "0_482",
+        "Pokémon Voluntad$"
+    ],
+    [
+        "0_483",
+        "Pokémon Temporal$"
+    ],
+    [
+        "0_484",
+        "Pokémon Espacial$"
+    ],
+    [
+        "0_485",
+        "Pokémon Domo Lava$"
+    ],
+    [
+        "0_486",
+        "Pokémon Colosal$"
+    ],
+    [
+        "0_487",
+        "Pokémon Renegado$"
+    ],
+    [
+        "0_488",
+        "Pokémon Lunar$"
+    ],
+    [
+        "0_489",
+        "Pokémon Marino$"
+    ],
+    [
+        "0_490",
+        "Pokémon Náutico$"
+    ],
+    [
+        "0_491",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "0_492",
+        "Pokémon Gratitud$"
+    ],
+    [
+        "0_493",
+        "Pokémon Alfa$$"
+    ],
+    [
+        "1_0",
+        "Pokémon (?)$"
+    ],
+    [
+        "1_1",
+        "Pokémon Semilla$"
+    ],
+    [
+        "1_2",
+        "Pokémon Semilla$"
+    ],
+    [
+        "1_3",
+        "Pokémon Semilla$"
+    ],
+    [
+        "1_4",
+        "Pokémon Lagartija$"
+    ],
+    [
+        "1_5",
+        "Pokémon Llama$"
+    ],
+    [
+        "1_6",
+        "Pokémon Llama$"
+    ],
+    [
+        "1_7",
+        "Pokémon Tortuguita$"
+    ],
+    [
+        "1_8",
+        "Pokémon Tortuga$"
+    ],
+    [
+        "1_9",
+        "Pokémon Marisco$"
+    ],
+    [
+        "1_10",
+        "Pokémon Gusano$"
+    ],
+    [
+        "1_11",
+        "Pokémon Capullo$"
+    ],
+    [
+        "1_12",
+        "Pokémon Mariposa$"
+    ],
+    [
+        "1_13",
+        "Pokémon Oruga$"
+    ],
+    [
+        "1_14",
+        "Pokémon Capullo$"
+    ],
+    [
+        "1_15",
+        "Pokémon Abeja Ven.$"
+    ],
+    [
+        "1_16",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "1_17",
+        "Pokémon Pájaro$"
+    ],
+    [
+        "1_18",
+        "Pokémon Pájaro$"
+    ],
+    [
+        "1_19",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_20",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_21",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "1_22",
+        "Pokémon Pico$"
+    ],
+    [
+        "1_23",
+        "Pokémon Serpiente$"
+    ],
+    [
+        "1_24",
+        "Pokémon Cobra$"
+    ],
+    [
+        "1_25",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_26",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_27",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_28",
+        "Pokémon Ratón$"
+    ],
+    [
+        "1_29",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "1_30",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "1_31",
+        "Pokémon Taladro$"
+    ],
+    [
+        "1_32",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "1_33",
+        "Pokémon Pin Veneno$"
+    ],
+    [
+        "1_34",
+        "Pokémon Taladro$"
+    ],
+    [
+        "1_35",
+        "Pokémon Hada$"
+    ],
+    [
+        "1_36",
+        "Pokémon Hada$"
+    ],
+    [
+        "1_37",
+        "Pokémon Zorro$"
+    ],
+    [
+        "1_38",
+        "Pokémon Zorro$"
+    ],
+    [
+        "1_39",
+        "Pokémon Globo$"
+    ],
+    [
+        "1_40",
+        "Pokémon Globo$"
+    ],
+    [
+        "1_41",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "1_42",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "1_43",
+        "Pokémon Hierbajo$"
+    ],
+    [
+        "1_44",
+        "Pokémon Hierbajo$"
+    ],
+    [
+        "1_45",
+        "Pokémon Flor$"
+    ],
+    [
+        "1_46",
+        "Pokémon Hongo$"
+    ],
+    [
+        "1_47",
+        "Pokémon Hongo$"
+    ],
+    [
+        "1_48",
+        "Pokémon Insecto$"
+    ],
+    [
+        "1_49",
+        "Pokémon Polilla V.$"
+    ],
+    [
+        "1_50",
+        "Pokémon Topo$"
+    ],
+    [
+        "1_51",
+        "Pokémon Topo$"
+    ],
+    [
+        "1_52",
+        "Pokémon Gato Araña$"
+    ],
+    [
+        "1_53",
+        "Pokémon Gato Fino$"
+    ],
+    [
+        "1_54",
+        "Pokémon Pato$"
+    ],
+    [
+        "1_55",
+        "Pokémon Pato$"
+    ],
+    [
+        "1_56",
+        "Pokémon Mono Cerdo$"
+    ],
+    [
+        "1_57",
+        "Pokémon Mono Cerdo$"
+    ],
+    [
+        "1_58",
+        "Pokémon Perrito$"
+    ],
+    [
+        "1_59",
+        "Pokémon Legendario$"
+    ],
+    [
+        "1_60",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "1_61",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "1_62",
+        "Pokémon Renacuajo$"
+    ],
+    [
+        "1_63",
+        "Pokémon Psi$"
+    ],
+    [
+        "1_64",
+        "Pokémon Psi$"
+    ],
+    [
+        "1_65",
+        "Pokémon Psi$"
+    ],
+    [
+        "1_66",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "1_67",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "1_68",
+        "Pokémon Superpoder$"
+    ],
+    [
+        "1_69",
+        "Pokémon Flor$"
+    ],
+    [
+        "1_70",
+        "Pokémon Matamoscas$"
+    ],
+    [
+        "1_71",
+        "Pokémon Matamoscas$"
+    ],
+    [
+        "1_72",
+        "Pokémon Medusa$"
+    ],
+    [
+        "1_73",
+        "Pokémon Medusa$"
+    ],
+    [
+        "1_74",
+        "Pokémon Roca$"
+    ],
+    [
+        "1_75",
+        "Pokémon Roca$"
+    ],
+    [
+        "1_76",
+        "Pokémon Megatón$"
+    ],
+    [
+        "1_77",
+        "Pokémon Caballo F.$"
+    ],
+    [
+        "1_78",
+        "Pokémon Caballo F.$"
+    ],
+    [
+        "1_79",
+        "Pokémon Atontado$"
+    ],
+    [
+        "1_80",
+        "Pokémon Ermitaño$"
+    ],
+    [
+        "1_81",
+        "Pokémon Imán$"
+    ],
+    [
+        "1_82",
+        "Pokémon Imán$"
+    ],
+    [
+        "1_83",
+        "Pokémon Pato Salv.$"
+    ],
+    [
+        "1_84",
+        "Pokémon Ave Gemela$"
+    ],
+    [
+        "1_85",
+        "Pokémon Ave Triple$"
+    ],
+    [
+        "1_86",
+        "Pokémon León Mar.$"
+    ],
+    [
+        "1_87",
+        "Pokémon León Mar.$"
+    ],
+    [
+        "1_88",
+        "Pokémon Lodo$"
+    ],
+    [
+        "1_89",
+        "Pokémon Lodo$"
+    ],
+    [
+        "1_90",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "1_91",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "1_92",
+        "Pokémon Gas$"
+    ],
+    [
+        "1_93",
+        "Pokémon Gas$"
+    ],
+    [
+        "1_94",
+        "Pokémon Sombra$"
+    ],
+    [
+        "1_95",
+        "Pokémon Serp. Roca$"
+    ],
+    [
+        "1_96",
+        "Pokémon Hipnosis$"
+    ],
+    [
+        "1_97",
+        "Pokémon Hipnosis$"
+    ],
+    [
+        "1_98",
+        "Pokémon Cangrejo$"
+    ],
+    [
+        "1_99",
+        "Pokémon Tenaza$"
+    ],
+    [
+        "1_100",
+        "Pokémon Bola$"
+    ],
+    [
+        "1_101",
+        "Pokémon Bola$"
+    ],
+    [
+        "1_102",
+        "Pokémon Huevo$"
+    ],
+    [
+        "1_103",
+        "Pokémon Coco$"
+    ],
+    [
+        "1_104",
+        "Pokémon Solitario$"
+    ],
+    [
+        "1_105",
+        "Pokémon Apilahueso$"
+    ],
+    [
+        "1_106",
+        "Pokémon Patada$"
+    ],
+    [
+        "1_107",
+        "Pokémon Puñetazo$"
+    ],
+    [
+        "1_108",
+        "Pokémon Lametazo$"
+    ],
+    [
+        "1_109",
+        "Pokémon Gas Veneno$"
+    ],
+    [
+        "1_110",
+        "Pokémon Gas Veneno$"
+    ],
+    [
+        "1_111",
+        "Pokémon Clavos$"
+    ],
+    [
+        "1_112",
+        "Pokémon Taladro$"
+    ],
+    [
+        "1_113",
+        "Pokémon Huevo$"
+    ],
+    [
+        "1_114",
+        "Pokémon Enredadera$"
+    ],
+    [
+        "1_115",
+        "Pokémon Padres$"
+    ],
+    [
+        "1_116",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_117",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_118",
+        "Pokémon Pez Color$"
+    ],
+    [
+        "1_119",
+        "Pokémon Pez Color$"
+    ],
+    [
+        "1_120",
+        "Pokémon Estrellada$"
+    ],
+    [
+        "1_121",
+        "Pokémon Misterioso$"
+    ],
+    [
+        "1_122",
+        "Pokémon Barrera$"
+    ],
+    [
+        "1_123",
+        "Pokémon Mantis$"
+    ],
+    [
+        "1_124",
+        "Pokémon F. Humana$"
+    ],
+    [
+        "1_125",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "1_126",
+        "Pokémon Escupfuego$"
+    ],
+    [
+        "1_127",
+        "Pokémon Escarabajo$"
+    ],
+    [
+        "1_128",
+        "Pokémon Toro Bravo$"
+    ],
+    [
+        "1_129",
+        "Pokémon Pez$"
+    ],
+    [
+        "1_130",
+        "Pokémon Atrocidad$"
+    ],
+    [
+        "1_131",
+        "Pokémon Transporte$"
+    ],
+    [
+        "1_132",
+        "Pokémon Transform.$"
+    ],
+    [
+        "1_133",
+        "Pokémon Evolución$"
+    ],
+    [
+        "1_134",
+        "Pokémon Burbuja$"
+    ],
+    [
+        "1_135",
+        "Pokémon Relámpago$"
+    ],
+    [
+        "1_136",
+        "Pokémon Llama$"
+    ],
+    [
+        "1_137",
+        "Pokémon Virtual$"
+    ],
+    [
+        "1_138",
+        "Pokémon Espiral$"
+    ],
+    [
+        "1_139",
+        "Pokémon Espiral$"
+    ],
+    [
+        "1_140",
+        "Pokémon Marisco$"
+    ],
+    [
+        "1_141",
+        "Pokémon Marisco$"
+    ],
+    [
+        "1_142",
+        "Pokémon Fósil$"
+    ],
+    [
+        "1_143",
+        "Pokémon Dormir$"
+    ],
+    [
+        "1_144",
+        "Pokémon Congelar$"
+    ],
+    [
+        "1_145",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "1_146",
+        "Pokémon Llama$"
+    ],
+    [
+        "1_147",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_148",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_149",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_150",
+        "Pokémon Genético$"
+    ],
+    [
+        "1_151",
+        "Pokémon N. Especie$"
+    ],
+    [
+        "1_152",
+        "Pokémon Hoja$"
+    ],
+    [
+        "1_153",
+        "Pokémon Hoja$"
+    ],
+    [
+        "1_154",
+        "Pokémon Hierba$"
+    ],
+    [
+        "1_155",
+        "Pokémon Ratónfuego$"
+    ],
+    [
+        "1_156",
+        "Pokémon Volcán$"
+    ],
+    [
+        "1_157",
+        "Pokémon Volcán$"
+    ],
+    [
+        "1_158",
+        "Pokémon Fauces$"
+    ],
+    [
+        "1_159",
+        "Pokémon Fauces$"
+    ],
+    [
+        "1_160",
+        "Pokémon Fauces$"
+    ],
+    [
+        "1_161",
+        "Pokémon Explorador$"
+    ],
+    [
+        "1_162",
+        "Pokémon Alargado$"
+    ],
+    [
+        "1_163",
+        "Pokémon Búho$"
+    ],
+    [
+        "1_164",
+        "Pokémon Búho$"
+    ],
+    [
+        "1_165",
+        "Pokémon 5estrellas$"
+    ],
+    [
+        "1_166",
+        "Pokémon 5estrellas$"
+    ],
+    [
+        "1_167",
+        "Pokémon Escupesoga$"
+    ],
+    [
+        "1_168",
+        "Pokémon Pata Larga$"
+    ],
+    [
+        "1_169",
+        "Pokémon Murciélago$"
+    ],
+    [
+        "1_170",
+        "Pokémon Rape$"
+    ],
+    [
+        "1_171",
+        "Pokémon Luz$"
+    ],
+    [
+        "1_172",
+        "Pokémon Ratoncito$"
+    ],
+    [
+        "1_173",
+        "Pokémon Estrellada$"
+    ],
+    [
+        "1_174",
+        "Pokémon Globo$"
+    ],
+    [
+        "1_175",
+        "Pokémon Bolaclavos$"
+    ],
+    [
+        "1_176",
+        "Pokémon Felicidad$"
+    ],
+    [
+        "1_177",
+        "Pokémon Pajarito$"
+    ],
+    [
+        "1_178",
+        "Pokémon Místico$"
+    ],
+    [
+        "1_179",
+        "Pokémon Lana$"
+    ],
+    [
+        "1_180",
+        "Pokémon Lana$"
+    ],
+    [
+        "1_181",
+        "Pokémon Luz$"
+    ],
+    [
+        "1_182",
+        "Pokémon Flor$"
+    ],
+    [
+        "1_183",
+        "Pokémon Ratón Agua$"
+    ],
+    [
+        "1_184",
+        "Pokémon Conejoagua$"
+    ],
+    [
+        "1_185",
+        "Pokémon Imitación$"
+    ],
+    [
+        "1_186",
+        "Pokémon Rana$"
+    ],
+    [
+        "1_187",
+        "Pokémon Algadón$"
+    ],
+    [
+        "1_188",
+        "Pokémon Algadón$"
+    ],
+    [
+        "1_189",
+        "Pokémon Algadón$"
+    ],
+    [
+        "1_190",
+        "Pokémon Cola Larga$"
+    ],
+    [
+        "1_191",
+        "Pokémon Semilla$"
+    ],
+    [
+        "1_192",
+        "Pokémon Sol$"
+    ],
+    [
+        "1_193",
+        "Pokémon Ala Clara$"
+    ],
+    [
+        "1_194",
+        "Pokémon Pez Agua$"
+    ],
+    [
+        "1_195",
+        "Pokémon Pez Agua$"
+    ],
+    [
+        "1_196",
+        "Pokémon Sol$"
+    ],
+    [
+        "1_197",
+        "Pokémon Luz Lunar$"
+    ],
+    [
+        "1_198",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "1_199",
+        "Pokémon Regio$"
+    ],
+    [
+        "1_200",
+        "Pokémon Chirrido$"
+    ],
+    [
+        "1_201",
+        "Pokémon Símbolo$"
+    ],
+    [
+        "1_202",
+        "Pokémon Paciente$"
+    ],
+    [
+        "1_203",
+        "Pokémon Grancuello$"
+    ],
+    [
+        "1_204",
+        "Pokémon Larva$"
+    ],
+    [
+        "1_205",
+        "Pokémon Larva$"
+    ],
+    [
+        "1_206",
+        "Pokémon Serptierra$"
+    ],
+    [
+        "1_207",
+        "Pokémon Escorpiala$"
+    ],
+    [
+        "1_208",
+        "Pokémon Serpférrea$"
+    ],
+    [
+        "1_209",
+        "Pokémon Hada$"
+    ],
+    [
+        "1_210",
+        "Pokémon Hada$"
+    ],
+    [
+        "1_211",
+        "Pokémon Globo$"
+    ],
+    [
+        "1_212",
+        "Pokémon Tenaza$"
+    ],
+    [
+        "1_213",
+        "Pokémon Moho$"
+    ],
+    [
+        "1_214",
+        "Pokémon Unicornio$"
+    ],
+    [
+        "1_215",
+        "Pokémon Garra Filo$"
+    ],
+    [
+        "1_216",
+        "Pokémon Osito$"
+    ],
+    [
+        "1_217",
+        "Pokémon Hibernante$"
+    ],
+    [
+        "1_218",
+        "Pokémon Lava$"
+    ],
+    [
+        "1_219",
+        "Pokémon Lava$"
+    ],
+    [
+        "1_220",
+        "Pokémon Cerdo$"
+    ],
+    [
+        "1_221",
+        "Pokémon Puerco$"
+    ],
+    [
+        "1_222",
+        "Pokémon Coral$"
+    ],
+    [
+        "1_223",
+        "Pokémon Reactor$"
+    ],
+    [
+        "1_224",
+        "Pokémon Reactor$"
+    ],
+    [
+        "1_225",
+        "Pokémon Reparto$"
+    ],
+    [
+        "1_226",
+        "Pokémon Milano$"
+    ],
+    [
+        "1_227",
+        "Pokémon Coraza Ave$"
+    ],
+    [
+        "1_228",
+        "Pokémon Siniestro$"
+    ],
+    [
+        "1_229",
+        "Pokémon Siniestro$"
+    ],
+    [
+        "1_230",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_231",
+        "Pokémon Narizotas$"
+    ],
+    [
+        "1_232",
+        "Pokémon Coraza$"
+    ],
+    [
+        "1_233",
+        "Pokémon Virtual$"
+    ],
+    [
+        "1_234",
+        "Pokémon Grancuerno$"
+    ],
+    [
+        "1_235",
+        "Pokémon Pintor$"
+    ],
+    [
+        "1_236",
+        "Pokémon Peleón$"
+    ],
+    [
+        "1_237",
+        "Pokémon Boca Abajo$"
+    ],
+    [
+        "1_238",
+        "Pokémon Beso$"
+    ],
+    [
+        "1_239",
+        "Pokémon Eléctrico$"
+    ],
+    [
+        "1_240",
+        "Pokémon Ascuas$"
+    ],
+    [
+        "1_241",
+        "Pokémon Lechera$"
+    ],
+    [
+        "1_242",
+        "Pokémon Felicidad$"
+    ],
+    [
+        "1_243",
+        "Pokémon Trueno$"
+    ],
+    [
+        "1_244",
+        "Pokémon Volcán$"
+    ],
+    [
+        "1_245",
+        "Pokémon Aurora$"
+    ],
+    [
+        "1_246",
+        "Pokémon Piel Roca$"
+    ],
+    [
+        "1_247",
+        "Pokémon Caparazón$"
+    ],
+    [
+        "1_248",
+        "Pokémon Coraza$"
+    ],
+    [
+        "1_249",
+        "Pokémon Buceo$"
+    ],
+    [
+        "1_250",
+        "Pokémon Arco Iris$"
+    ],
+    [
+        "1_251",
+        "Pokémon Viajetiempo$"
+    ],
+    [
+        "1_252",
+        "Pokémon Geco Bosque$"
+    ],
+    [
+        "1_253",
+        "Pokémon Geco Bosque$"
+    ],
+    [
+        "1_254",
+        "Pokémon Monte$"
+    ],
+    [
+        "1_255",
+        "Pokémon Polluelo$"
+    ],
+    [
+        "1_256",
+        "Pokémon Ave Corral$"
+    ],
+    [
+        "1_257",
+        "Pokémon Llameante$"
+    ],
+    [
+        "1_258",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "1_259",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "1_260",
+        "Pokémon Pez Lodo$"
+    ],
+    [
+        "1_261",
+        "Pokémon Mordisco$"
+    ],
+    [
+        "1_262",
+        "Pokémon Mordisco$"
+    ],
+    [
+        "1_263",
+        "Pokémon Mapachito$"
+    ],
+    [
+        "1_264",
+        "Pokémon Lanzado$"
+    ],
+    [
+        "1_265",
+        "Pokémon Gusano$"
+    ],
+    [
+        "1_266",
+        "Pokémon Capullo$"
+    ],
+    [
+        "1_267",
+        "Pokémon Mariposa$"
+    ],
+    [
+        "1_268",
+        "Pokémon Capullo$"
+    ],
+    [
+        "1_269",
+        "Pokémon Polilla V.$"
+    ],
+    [
+        "1_270",
+        "Pokémon Alga$"
+    ],
+    [
+        "1_271",
+        "Pokémon Alegre$"
+    ],
+    [
+        "1_272",
+        "Pokémon Optimista$"
+    ],
+    [
+        "1_273",
+        "Pokémon Bellota$"
+    ],
+    [
+        "1_274",
+        "Pokémon Astuto$"
+    ],
+    [
+        "1_275",
+        "Pokémon Malvado$"
+    ],
+    [
+        "1_276",
+        "Pokémon Pequebuche$"
+    ],
+    [
+        "1_277",
+        "Pokémon Buche$"
+    ],
+    [
+        "1_278",
+        "Pokémon Gaviota$"
+    ],
+    [
+        "1_279",
+        "Pokémon Ave Agua$"
+    ],
+    [
+        "1_280",
+        "Pokémon Sensible$"
+    ],
+    [
+        "1_281",
+        "Pokémon Sensorio$"
+    ],
+    [
+        "1_282",
+        "Pokémon Envolvente$"
+    ],
+    [
+        "1_283",
+        "Pokémon Zapatero$"
+    ],
+    [
+        "1_284",
+        "Pokémon Globocular$"
+    ],
+    [
+        "1_285",
+        "Pokémon Hongo$"
+    ],
+    [
+        "1_286",
+        "Pokémon Hongo$"
+    ],
+    [
+        "1_287",
+        "Pokémon Gandul$"
+    ],
+    [
+        "1_288",
+        "Pokémon Mono Feroz$"
+    ],
+    [
+        "1_289",
+        "Pokémon Holgazán$"
+    ],
+    [
+        "1_290",
+        "Pokémon Aprendiz$"
+    ],
+    [
+        "1_291",
+        "Pokémon Ninja$"
+    ],
+    [
+        "1_292",
+        "Pokémon Muda$"
+    ],
+    [
+        "1_293",
+        "Pokémon Susurro$"
+    ],
+    [
+        "1_294",
+        "Pokémon Chillón$"
+    ],
+    [
+        "1_295",
+        "Pokémon Escandaloso$"
+    ],
+    [
+        "1_296",
+        "Pokémon Valiente$"
+    ],
+    [
+        "1_297",
+        "Pokémon Empuje$"
+    ],
+    [
+        "1_298",
+        "Pokémon A Topos$"
+    ],
+    [
+        "1_299",
+        "Pokémon Brújula$"
+    ],
+    [
+        "1_300",
+        "Pokémon Gatito$"
+    ],
+    [
+        "1_301",
+        "Pokémon Cursi$"
+    ],
+    [
+        "1_302",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "1_303",
+        "Pokémon Tramposo$"
+    ],
+    [
+        "1_304",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "1_305",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "1_306",
+        "Pokémon Cor. Férrea$"
+    ],
+    [
+        "1_307",
+        "Pokémon Meditador$"
+    ],
+    [
+        "1_308",
+        "Pokémon Meditador$"
+    ],
+    [
+        "1_309",
+        "Pokémon Calambre$"
+    ],
+    [
+        "1_310",
+        "Pokémon Descarga$"
+    ],
+    [
+        "1_311",
+        "Pokémon Ánimo$"
+    ],
+    [
+        "1_312",
+        "Pokémon Ánimo$"
+    ],
+    [
+        "1_313",
+        "Pokémon Luciérnaga$"
+    ],
+    [
+        "1_314",
+        "Pokémon Luciérnaga$"
+    ],
+    [
+        "1_315",
+        "Pokémon Espina$"
+    ],
+    [
+        "1_316",
+        "Pokémon Estómago$"
+    ],
+    [
+        "1_317",
+        "Pokémon Bolsa Ven.$"
+    ],
+    [
+        "1_318",
+        "Pokémon Feroz$"
+    ],
+    [
+        "1_319",
+        "Pokémon Voraz$"
+    ],
+    [
+        "1_320",
+        "Pokémon Ballenabola$"
+    ],
+    [
+        "1_321",
+        "Pokémon Ballenaflot$"
+    ],
+    [
+        "1_322",
+        "Pokémon Torpe$"
+    ],
+    [
+        "1_323",
+        "Pokémon Erupción$"
+    ],
+    [
+        "1_324",
+        "Pokémon Carbón$"
+    ],
+    [
+        "1_325",
+        "Pokémon Saltarín$"
+    ],
+    [
+        "1_326",
+        "Pokémon Manipulador$"
+    ],
+    [
+        "1_327",
+        "Pokémon Panda Topos$"
+    ],
+    [
+        "1_328",
+        "Pokémon Hormigaleón$"
+    ],
+    [
+        "1_329",
+        "Pokémon Vibrante$"
+    ],
+    [
+        "1_330",
+        "Pokémon Místico$"
+    ],
+    [
+        "1_331",
+        "Pokémon Cactus$"
+    ],
+    [
+        "1_332",
+        "Pokémon Espantajo$"
+    ],
+    [
+        "1_333",
+        "Pokémon Ave Algodón$"
+    ],
+    [
+        "1_334",
+        "Pokémon Cantor$"
+    ],
+    [
+        "1_335",
+        "Pokémon Gato Hurón$"
+    ],
+    [
+        "1_336",
+        "Pokémon Colmillos$"
+    ],
+    [
+        "1_337",
+        "Pokémon Meteorito$"
+    ],
+    [
+        "1_338",
+        "Pokémon Meteorito$"
+    ],
+    [
+        "1_339",
+        "Pokémon Bigotudo$"
+    ],
+    [
+        "1_340",
+        "Pokémon Bigotudo$"
+    ],
+    [
+        "1_341",
+        "Pokémon Rufián$"
+    ],
+    [
+        "1_342",
+        "Pokémon Granuja$"
+    ],
+    [
+        "1_343",
+        "Pokémon Muñ. Barro$"
+    ],
+    [
+        "1_344",
+        "Pokémon Muñ. Barro$"
+    ],
+    [
+        "1_345",
+        "Pokémon Lila Mar$"
+    ],
+    [
+        "1_346",
+        "Pokémon Percebe$"
+    ],
+    [
+        "1_347",
+        "Pokémon Camarón$"
+    ],
+    [
+        "1_348",
+        "Pokémon Armadura$"
+    ],
+    [
+        "1_349",
+        "Pokémon Pez$"
+    ],
+    [
+        "1_350",
+        "Pokémon Tierno$"
+    ],
+    [
+        "1_351",
+        "Pokémon Clima$"
+    ],
+    [
+        "1_352",
+        "Pokémon Camaleónico$"
+    ],
+    [
+        "1_353",
+        "Pokémon Títere$"
+    ],
+    [
+        "1_354",
+        "Pokémon Marioneta$"
+    ],
+    [
+        "1_355",
+        "Pokémon Réquiem$"
+    ],
+    [
+        "1_356",
+        "Pokémon Atrayente$"
+    ],
+    [
+        "1_357",
+        "Pokémon Fruto$"
+    ],
+    [
+        "1_358",
+        "Pokémon Sonido Aire$"
+    ],
+    [
+        "1_359",
+        "Pokémon Catástrofe$"
+    ],
+    [
+        "1_360",
+        "Pokémon Radiante$"
+    ],
+    [
+        "1_361",
+        "Pokémon Gorro Nieve$"
+    ],
+    [
+        "1_362",
+        "Pokémon Cara$"
+    ],
+    [
+        "1_363",
+        "Pokémon Aplauso$"
+    ],
+    [
+        "1_364",
+        "Pokémon Rodabola$"
+    ],
+    [
+        "1_365",
+        "Pokémon Rompehielo$"
+    ],
+    [
+        "1_366",
+        "Pokémon Bivalvo$"
+    ],
+    [
+        "1_367",
+        "Pokémon Abisal$"
+    ],
+    [
+        "1_368",
+        "Pokémon Mar Del Sur$"
+    ],
+    [
+        "1_369",
+        "Pokémon Longevo$"
+    ],
+    [
+        "1_370",
+        "Pokémon Cita$"
+    ],
+    [
+        "1_371",
+        "Pokémon Cabeza Roca$"
+    ],
+    [
+        "1_372",
+        "Pokémon Resistencia$"
+    ],
+    [
+        "1_373",
+        "Pokémon Dragón$"
+    ],
+    [
+        "1_374",
+        "Pokémon Bola Hierro$"
+    ],
+    [
+        "1_375",
+        "Pokémon Garrahierro$"
+    ],
+    [
+        "1_376",
+        "Pokémon Pata Hierro$"
+    ],
+    [
+        "1_377",
+        "Pokémon Pico Roca$"
+    ],
+    [
+        "1_378",
+        "Pokémon Iceberg$"
+    ],
+    [
+        "1_379",
+        "Pokémon Hierro$"
+    ],
+    [
+        "1_380",
+        "Pokémon Eón$"
+    ],
+    [
+        "1_381",
+        "Pokémon Eón$"
+    ],
+    [
+        "1_382",
+        "Pokémon Cuenca Mar$"
+    ],
+    [
+        "1_383",
+        "Pokémon Continente$"
+    ],
+    [
+        "1_384",
+        "Pokémon Cielo$"
+    ],
+    [
+        "1_385",
+        "Pokémon Deseo$"
+    ],
+    [
+        "1_386",
+        "Pokémon ADN$"
+    ],
+    [
+        "1_387",
+        "Pokémon Hojita$"
+    ],
+    [
+        "1_388",
+        "Pokémon Arboleda$"
+    ],
+    [
+        "1_389",
+        "Pokémon Continente$"
+    ],
+    [
+        "1_390",
+        "Pokémon Chimpancé$"
+    ],
+    [
+        "1_391",
+        "Pokémon Juguetón$"
+    ],
+    [
+        "1_392",
+        "Pokémon Llama$"
+    ],
+    [
+        "1_393",
+        "Pokémon Pingüino$"
+    ],
+    [
+        "1_394",
+        "Pokémon Pingüino$"
+    ],
+    [
+        "1_395",
+        "Pokémon Emperador$"
+    ],
+    [
+        "1_396",
+        "Pokémon Estornino$"
+    ],
+    [
+        "1_397",
+        "Pokémon Estornino$"
+    ],
+    [
+        "1_398",
+        "Pokémon Depredador$"
+    ],
+    [
+        "1_399",
+        "Pokémon Gran Ratón$"
+    ],
+    [
+        "1_400",
+        "Pokémon Castor$"
+    ],
+    [
+        "1_401",
+        "Pokémon Grillo$"
+    ],
+    [
+        "1_402",
+        "Pokémon Grillo$"
+    ],
+    [
+        "1_403",
+        "Pokémon Flash$"
+    ],
+    [
+        "1_404",
+        "Pokémon Chispa$"
+    ],
+    [
+        "1_405",
+        "Pokémon Chispa Ojos$"
+    ],
+    [
+        "1_406",
+        "Pokémon Brote$"
+    ],
+    [
+        "1_407",
+        "Pokémon Ramillete$"
+    ],
+    [
+        "1_408",
+        "Pokémon Cabezazo$"
+    ],
+    [
+        "1_409",
+        "Pokémon Cabezazo$"
+    ],
+    [
+        "1_410",
+        "Pokémon Escudo$"
+    ],
+    [
+        "1_411",
+        "Pokémon Escudo$"
+    ],
+    [
+        "1_412",
+        "Pokémon Larva$"
+    ],
+    [
+        "1_413",
+        "Pokémon Larva$"
+    ],
+    [
+        "1_414",
+        "Pokémon Polilla$"
+    ],
+    [
+        "1_415",
+        "Pokémon Abejita$"
+    ],
+    [
+        "1_416",
+        "Pokémon Colmena$"
+    ],
+    [
+        "1_417",
+        "Pokémon Ardillalec$"
+    ],
+    [
+        "1_418",
+        "Pokémon Nutria Mar.$"
+    ],
+    [
+        "1_419",
+        "Pokémon Nutria Mar.$"
+    ],
+    [
+        "1_420",
+        "Pokémon Cereza$"
+    ],
+    [
+        "1_421",
+        "Pokémon Floración$"
+    ],
+    [
+        "1_422",
+        "Pokémon Babosa Mar.$"
+    ],
+    [
+        "1_423",
+        "Pokémon Babosa Mar.$"
+    ],
+    [
+        "1_424",
+        "Pokémon Cola Larga$"
+    ],
+    [
+        "1_425",
+        "Pokémon Globo$"
+    ],
+    [
+        "1_426",
+        "Pokémon Dirigible$"
+    ],
+    [
+        "1_427",
+        "Pokémon Conejo$"
+    ],
+    [
+        "1_428",
+        "Pokémon Conejo$"
+    ],
+    [
+        "1_429",
+        "Pokémon Mágico$"
+    ],
+    [
+        "1_430",
+        "Pokémon Gran Jefe$"
+    ],
+    [
+        "1_431",
+        "Pokémon Gastuto$"
+    ],
+    [
+        "1_432",
+        "Pokémon Tigre Gato$"
+    ],
+    [
+        "1_433",
+        "Pokémon Campana$"
+    ],
+    [
+        "1_434",
+        "Pokémon Mofeta$"
+    ],
+    [
+        "1_435",
+        "Pokémon Mofeta$"
+    ],
+    [
+        "1_436",
+        "Pokémon Bronce$"
+    ],
+    [
+        "1_437",
+        "Pokémon Cam. Bronce$"
+    ],
+    [
+        "1_438",
+        "Pokémon Bonsái$"
+    ],
+    [
+        "1_439",
+        "Pokémon Mimo$"
+    ],
+    [
+        "1_440",
+        "Pokémon Casita$"
+    ],
+    [
+        "1_441",
+        "Pokémon Corchea$"
+    ],
+    [
+        "1_442",
+        "Pokémon Prohibido$"
+    ],
+    [
+        "1_443",
+        "Pokémon Terrascualo$"
+    ],
+    [
+        "1_444",
+        "Pokémon Cueva$"
+    ],
+    [
+        "1_445",
+        "Pokémon Mach$"
+    ],
+    [
+        "1_446",
+        "Pokémon Comilón$"
+    ],
+    [
+        "1_447",
+        "Pokémon Emanación$"
+    ],
+    [
+        "1_448",
+        "Pokémon Aura$"
+    ],
+    [
+        "1_449",
+        "Pokémon Hipo$"
+    ],
+    [
+        "1_450",
+        "Pokémon Peso Pesado$"
+    ],
+    [
+        "1_451",
+        "Pokémon Escorpión$"
+    ],
+    [
+        "1_452",
+        "Pokémon Escorpiogro$"
+    ],
+    [
+        "1_453",
+        "Pokémon Boca Tóxica$"
+    ],
+    [
+        "1_454",
+        "Pokémon Boca Tóxica$"
+    ],
+    [
+        "1_455",
+        "Pokémon Caza Bichos$"
+    ],
+    [
+        "1_456",
+        "Pokémon Pez Ala$"
+    ],
+    [
+        "1_457",
+        "Pokémon Neón$"
+    ],
+    [
+        "1_458",
+        "Pokémon Milano$"
+    ],
+    [
+        "1_459",
+        "Pokémon Árbol Nieve$"
+    ],
+    [
+        "1_460",
+        "Pokémon Árbol Nieve$"
+    ],
+    [
+        "1_461",
+        "Pokémon Garra Filo$"
+    ],
+    [
+        "1_462",
+        "Pokémon Magnético$"
+    ],
+    [
+        "1_463",
+        "Pokémon Lametazo$"
+    ],
+    [
+        "1_464",
+        "Pokémon Taladro$"
+    ],
+    [
+        "1_465",
+        "Pokémon Enredadera$"
+    ],
+    [
+        "1_466",
+        "Pokémon Rayo$"
+    ],
+    [
+        "1_467",
+        "Pokémon Explosión$"
+    ],
+    [
+        "1_468",
+        "Pokémon Festejo$"
+    ],
+    [
+        "1_469",
+        "Pokémon Libélula$"
+    ],
+    [
+        "1_470",
+        "Pokémon Verdor$"
+    ],
+    [
+        "1_471",
+        "Pokémon Nievefresca$"
+    ],
+    [
+        "1_472",
+        "Pokémon Colmicorpio$"
+    ],
+    [
+        "1_473",
+        "Pokémon 2colmillos$"
+    ],
+    [
+        "1_474",
+        "Pokémon Virtual$"
+    ],
+    [
+        "1_475",
+        "Pokémon Cuchilla$"
+    ],
+    [
+        "1_476",
+        "Pokémon Brújula$"
+    ],
+    [
+        "1_477",
+        "Pokémon Grilletes$"
+    ],
+    [
+        "1_478",
+        "Pokémon Tierra Fría$"
+    ],
+    [
+        "1_479",
+        "Pokémon Plasma$"
+    ],
+    [
+        "1_480",
+        "Pokémon Sabiduría$"
+    ],
+    [
+        "1_481",
+        "Pokémon Sensorio$"
+    ],
+    [
+        "1_482",
+        "Pokémon Voluntad$"
+    ],
+    [
+        "1_483",
+        "Pokémon Temporal$"
+    ],
+    [
+        "1_484",
+        "Pokémon Espacial$"
+    ],
+    [
+        "1_485",
+        "Pokémon Domo Lava$"
+    ],
+    [
+        "1_486",
+        "Pokémon Colosal$"
+    ],
+    [
+        "1_487",
+        "Pokémon Renegado$"
+    ],
+    [
+        "1_488",
+        "Pokémon Lunar$"
+    ],
+    [
+        "1_489",
+        "Pokémon Marino$"
+    ],
+    [
+        "1_490",
+        "Pokémon Náutico$"
+    ],
+    [
+        "1_491",
+        "Pokémon Oscuridad$"
+    ],
+    [
+        "1_492",
+        "Pokémon Gratitud$"
+    ],
+    [
+        "1_493",
+        "Pokémon Alfa$$"
+    ]
+]

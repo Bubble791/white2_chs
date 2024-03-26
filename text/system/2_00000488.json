@@ -1,0 +1,2242 @@
+[
+    [
+        "0_0",
+        "-----$"
+    ],
+    [
+        "0_1",
+        "POUND$"
+    ],
+    [
+        "0_2",
+        "KARATE CHOP$"
+    ],
+    [
+        "0_3",
+        "DOUBLESLAP$"
+    ],
+    [
+        "0_4",
+        "COMET PUNCH$"
+    ],
+    [
+        "0_5",
+        "MEGA PUNCH$"
+    ],
+    [
+        "0_6",
+        "PAY DAY$"
+    ],
+    [
+        "0_7",
+        "FIRE PUNCH$"
+    ],
+    [
+        "0_8",
+        "ICE PUNCH$"
+    ],
+    [
+        "0_9",
+        "THUNDERPUNCH$"
+    ],
+    [
+        "0_10",
+        "SCRATCH$"
+    ],
+    [
+        "0_11",
+        "VICEGRIP$"
+    ],
+    [
+        "0_12",
+        "GUILLOTINE$"
+    ],
+    [
+        "0_13",
+        "RAZOR WIND$"
+    ],
+    [
+        "0_14",
+        "SWORDS DANCE$"
+    ],
+    [
+        "0_15",
+        "CUT$"
+    ],
+    [
+        "0_16",
+        "GUST$"
+    ],
+    [
+        "0_17",
+        "WING ATTACK$"
+    ],
+    [
+        "0_18",
+        "WHIRLWIND$"
+    ],
+    [
+        "0_19",
+        "FLY$"
+    ],
+    [
+        "0_20",
+        "BIND$"
+    ],
+    [
+        "0_21",
+        "SLAM$"
+    ],
+    [
+        "0_22",
+        "VINE WHIP$"
+    ],
+    [
+        "0_23",
+        "STOMP$"
+    ],
+    [
+        "0_24",
+        "DOUBLE KICK$"
+    ],
+    [
+        "0_25",
+        "MEGA KICK$"
+    ],
+    [
+        "0_26",
+        "JUMP KICK$"
+    ],
+    [
+        "0_27",
+        "ROLLING KICK$"
+    ],
+    [
+        "0_28",
+        "SAND-ATTACK$"
+    ],
+    [
+        "0_29",
+        "HEADBUTT$"
+    ],
+    [
+        "0_30",
+        "HORN ATTACK$"
+    ],
+    [
+        "0_31",
+        "FURY ATTACK$"
+    ],
+    [
+        "0_32",
+        "HORN DRILL$"
+    ],
+    [
+        "0_33",
+        "TACKLE$"
+    ],
+    [
+        "0_34",
+        "BODY SLAM$"
+    ],
+    [
+        "0_35",
+        "WRAP$"
+    ],
+    [
+        "0_36",
+        "TAKE DOWN$"
+    ],
+    [
+        "0_37",
+        "THRASH$"
+    ],
+    [
+        "0_38",
+        "DOUBLE-EDGE$"
+    ],
+    [
+        "0_39",
+        "TAIL WHIP$"
+    ],
+    [
+        "0_40",
+        "POISON STING$"
+    ],
+    [
+        "0_41",
+        "TWINEEDLE$"
+    ],
+    [
+        "0_42",
+        "PIN MISSILE$"
+    ],
+    [
+        "0_43",
+        "LEER$"
+    ],
+    [
+        "0_44",
+        "BITE$"
+    ],
+    [
+        "0_45",
+        "GROWL$"
+    ],
+    [
+        "0_46",
+        "ROAR$"
+    ],
+    [
+        "0_47",
+        "SING$"
+    ],
+    [
+        "0_48",
+        "SUPERSONIC$"
+    ],
+    [
+        "0_49",
+        "SONICBOOM$"
+    ],
+    [
+        "0_50",
+        "DISABLE$"
+    ],
+    [
+        "0_51",
+        "ACID$"
+    ],
+    [
+        "0_52",
+        "EMBER$"
+    ],
+    [
+        "0_53",
+        "FLAMETHROWER$"
+    ],
+    [
+        "0_54",
+        "MIST$"
+    ],
+    [
+        "0_55",
+        "WATER GUN$"
+    ],
+    [
+        "0_56",
+        "HYDRO PUMP$"
+    ],
+    [
+        "0_57",
+        "SURF$"
+    ],
+    [
+        "0_58",
+        "ICE BEAM$"
+    ],
+    [
+        "0_59",
+        "BLIZZARD$"
+    ],
+    [
+        "0_60",
+        "PSYBEAM$"
+    ],
+    [
+        "0_61",
+        "BUBBLEBEAM$"
+    ],
+    [
+        "0_62",
+        "AURORA BEAM$"
+    ],
+    [
+        "0_63",
+        "HYPER BEAM$"
+    ],
+    [
+        "0_64",
+        "PECK$"
+    ],
+    [
+        "0_65",
+        "DRILL PECK$"
+    ],
+    [
+        "0_66",
+        "SUBMISSION$"
+    ],
+    [
+        "0_67",
+        "LOW KICK$"
+    ],
+    [
+        "0_68",
+        "COUNTER$"
+    ],
+    [
+        "0_69",
+        "SEISMIC TOSS$"
+    ],
+    [
+        "0_70",
+        "STRENGTH$"
+    ],
+    [
+        "0_71",
+        "ABSORB$"
+    ],
+    [
+        "0_72",
+        "MEGA DRAIN$"
+    ],
+    [
+        "0_73",
+        "LEECH SEED$"
+    ],
+    [
+        "0_74",
+        "GROWTH$"
+    ],
+    [
+        "0_75",
+        "RAZOR LEAF$"
+    ],
+    [
+        "0_76",
+        "SOLARBEAM$"
+    ],
+    [
+        "0_77",
+        "POISONPOWDER$"
+    ],
+    [
+        "0_78",
+        "STUN SPORE$"
+    ],
+    [
+        "0_79",
+        "SLEEP POWDER$"
+    ],
+    [
+        "0_80",
+        "PETAL DANCE$"
+    ],
+    [
+        "0_81",
+        "STRING SHOT$"
+    ],
+    [
+        "0_82",
+        "DRAGON RAGE$"
+    ],
+    [
+        "0_83",
+        "FIRE SPIN$"
+    ],
+    [
+        "0_84",
+        "THUNDERSHOCK$"
+    ],
+    [
+        "0_85",
+        "THUNDERBOLT$"
+    ],
+    [
+        "0_86",
+        "THUNDER WAVE$"
+    ],
+    [
+        "0_87",
+        "THUNDER$"
+    ],
+    [
+        "0_88",
+        "ROCK THROW$"
+    ],
+    [
+        "0_89",
+        "EARTHQUAKE$"
+    ],
+    [
+        "0_90",
+        "FISSURE$"
+    ],
+    [
+        "0_91",
+        "DIG$"
+    ],
+    [
+        "0_92",
+        "TOXIC$"
+    ],
+    [
+        "0_93",
+        "CONFUSION$"
+    ],
+    [
+        "0_94",
+        "PSYCHIC$"
+    ],
+    [
+        "0_95",
+        "HYPNOSIS$"
+    ],
+    [
+        "0_96",
+        "MEDITATE$"
+    ],
+    [
+        "0_97",
+        "AGILITY$"
+    ],
+    [
+        "0_98",
+        "QUICK ATTACK$"
+    ],
+    [
+        "0_99",
+        "RAGE$"
+    ],
+    [
+        "0_100",
+        "TELEPORT$"
+    ],
+    [
+        "0_101",
+        "NIGHT SHADE$"
+    ],
+    [
+        "0_102",
+        "MIMIC$"
+    ],
+    [
+        "0_103",
+        "SCREECH$"
+    ],
+    [
+        "0_104",
+        "DOUBLE TEAM$"
+    ],
+    [
+        "0_105",
+        "RECOVER$"
+    ],
+    [
+        "0_106",
+        "HARDEN$"
+    ],
+    [
+        "0_107",
+        "MINIMIZE$"
+    ],
+    [
+        "0_108",
+        "SMOKESCREEN$"
+    ],
+    [
+        "0_109",
+        "CONFUSE RAY$"
+    ],
+    [
+        "0_110",
+        "WITHDRAW$"
+    ],
+    [
+        "0_111",
+        "DEFENSE CURL$"
+    ],
+    [
+        "0_112",
+        "BARRIER$"
+    ],
+    [
+        "0_113",
+        "LIGHT SCREEN$"
+    ],
+    [
+        "0_114",
+        "HAZE$"
+    ],
+    [
+        "0_115",
+        "REFLECT$"
+    ],
+    [
+        "0_116",
+        "FOCUS ENERGY$"
+    ],
+    [
+        "0_117",
+        "BIDE$"
+    ],
+    [
+        "0_118",
+        "METRONOME$"
+    ],
+    [
+        "0_119",
+        "MIRROR MOVE$"
+    ],
+    [
+        "0_120",
+        "SELFDESTRUCT$"
+    ],
+    [
+        "0_121",
+        "EGG BOMB$"
+    ],
+    [
+        "0_122",
+        "LICK$"
+    ],
+    [
+        "0_123",
+        "SMOG$"
+    ],
+    [
+        "0_124",
+        "SLUDGE$"
+    ],
+    [
+        "0_125",
+        "BONE CLUB$"
+    ],
+    [
+        "0_126",
+        "FIRE BLAST$"
+    ],
+    [
+        "0_127",
+        "WATERFALL$"
+    ],
+    [
+        "0_128",
+        "CLAMP$"
+    ],
+    [
+        "0_129",
+        "SWIFT$"
+    ],
+    [
+        "0_130",
+        "SKULL BASH$"
+    ],
+    [
+        "0_131",
+        "SPIKE CANNON$"
+    ],
+    [
+        "0_132",
+        "CONSTRICT$"
+    ],
+    [
+        "0_133",
+        "AMNESIA$"
+    ],
+    [
+        "0_134",
+        "KINESIS$"
+    ],
+    [
+        "0_135",
+        "SOFTBOILED$"
+    ],
+    [
+        "0_136",
+        "HI JUMP KICK$"
+    ],
+    [
+        "0_137",
+        "GLARE$"
+    ],
+    [
+        "0_138",
+        "DREAM EATER$"
+    ],
+    [
+        "0_139",
+        "POISON GAS$"
+    ],
+    [
+        "0_140",
+        "BARRAGE$"
+    ],
+    [
+        "0_141",
+        "LEECH LIFE$"
+    ],
+    [
+        "0_142",
+        "LOVELY KISS$"
+    ],
+    [
+        "0_143",
+        "SKY ATTACK$"
+    ],
+    [
+        "0_144",
+        "TRANSFORM$"
+    ],
+    [
+        "0_145",
+        "BUBBLE$"
+    ],
+    [
+        "0_146",
+        "DIZZY PUNCH$"
+    ],
+    [
+        "0_147",
+        "SPORE$"
+    ],
+    [
+        "0_148",
+        "FLASH$"
+    ],
+    [
+        "0_149",
+        "PSYWAVE$"
+    ],
+    [
+        "0_150",
+        "SPLASH$"
+    ],
+    [
+        "0_151",
+        "ACID ARMOR$"
+    ],
+    [
+        "0_152",
+        "CRABHAMMER$"
+    ],
+    [
+        "0_153",
+        "EXPLOSION$"
+    ],
+    [
+        "0_154",
+        "FURY SWIPES$"
+    ],
+    [
+        "0_155",
+        "BONEMERANG$"
+    ],
+    [
+        "0_156",
+        "REST$"
+    ],
+    [
+        "0_157",
+        "ROCK SLIDE$"
+    ],
+    [
+        "0_158",
+        "HYPER FANG$"
+    ],
+    [
+        "0_159",
+        "SHARPEN$"
+    ],
+    [
+        "0_160",
+        "CONVERSION$"
+    ],
+    [
+        "0_161",
+        "TRI ATTACK$"
+    ],
+    [
+        "0_162",
+        "SUPER FANG$"
+    ],
+    [
+        "0_163",
+        "SLASH$"
+    ],
+    [
+        "0_164",
+        "SUBSTITUTE$"
+    ],
+    [
+        "0_165",
+        "STRUGGLE$"
+    ],
+    [
+        "0_166",
+        "SKETCH$"
+    ],
+    [
+        "0_167",
+        "TRIPLE KICK$"
+    ],
+    [
+        "0_168",
+        "THIEF$"
+    ],
+    [
+        "0_169",
+        "SPIDER WEB$"
+    ],
+    [
+        "0_170",
+        "MIND READER$"
+    ],
+    [
+        "0_171",
+        "NIGHTMARE$"
+    ],
+    [
+        "0_172",
+        "FLAME WHEEL$"
+    ],
+    [
+        "0_173",
+        "SNORE$"
+    ],
+    [
+        "0_174",
+        "CURSE$"
+    ],
+    [
+        "0_175",
+        "FLAIL$"
+    ],
+    [
+        "0_176",
+        "CONVERSION 2$"
+    ],
+    [
+        "0_177",
+        "AEROBLAST$"
+    ],
+    [
+        "0_178",
+        "COTTON SPORE$"
+    ],
+    [
+        "0_179",
+        "REVERSAL$"
+    ],
+    [
+        "0_180",
+        "SPITE$"
+    ],
+    [
+        "0_181",
+        "POWDER SNOW$"
+    ],
+    [
+        "0_182",
+        "PROTECT$"
+    ],
+    [
+        "0_183",
+        "MACH PUNCH$"
+    ],
+    [
+        "0_184",
+        "SCARY FACE$"
+    ],
+    [
+        "0_185",
+        "FAINT ATTACK$"
+    ],
+    [
+        "0_186",
+        "SWEET KISS$"
+    ],
+    [
+        "0_187",
+        "BELLY DRUM$"
+    ],
+    [
+        "0_188",
+        "SLUDGE BOMB$"
+    ],
+    [
+        "0_189",
+        "MUD-SLAP$"
+    ],
+    [
+        "0_190",
+        "OCTAZOOKA$"
+    ],
+    [
+        "0_191",
+        "SPIKES$"
+    ],
+    [
+        "0_192",
+        "ZAP CANNON$"
+    ],
+    [
+        "0_193",
+        "FORESIGHT$"
+    ],
+    [
+        "0_194",
+        "DESTINY BOND$"
+    ],
+    [
+        "0_195",
+        "PERISH SONG$"
+    ],
+    [
+        "0_196",
+        "ICY WIND$"
+    ],
+    [
+        "0_197",
+        "DETECT$"
+    ],
+    [
+        "0_198",
+        "BONE RUSH$"
+    ],
+    [
+        "0_199",
+        "LOCK-ON$"
+    ],
+    [
+        "0_200",
+        "OUTRAGE$"
+    ],
+    [
+        "0_201",
+        "SANDSTORM$"
+    ],
+    [
+        "0_202",
+        "GIGA DRAIN$"
+    ],
+    [
+        "0_203",
+        "ENDURE$"
+    ],
+    [
+        "0_204",
+        "CHARM$"
+    ],
+    [
+        "0_205",
+        "ROLLOUT$"
+    ],
+    [
+        "0_206",
+        "FALSE SWIPE$"
+    ],
+    [
+        "0_207",
+        "SWAGGER$"
+    ],
+    [
+        "0_208",
+        "MILK DRINK$"
+    ],
+    [
+        "0_209",
+        "SPARK$"
+    ],
+    [
+        "0_210",
+        "FURY CUTTER$"
+    ],
+    [
+        "0_211",
+        "STEEL WING$"
+    ],
+    [
+        "0_212",
+        "MEAN LOOK$"
+    ],
+    [
+        "0_213",
+        "ATTRACT$"
+    ],
+    [
+        "0_214",
+        "SLEEP TALK$"
+    ],
+    [
+        "0_215",
+        "HEAL BELL$"
+    ],
+    [
+        "0_216",
+        "RETURN$"
+    ],
+    [
+        "0_217",
+        "PRESENT$"
+    ],
+    [
+        "0_218",
+        "FRUSTRATION$"
+    ],
+    [
+        "0_219",
+        "SAFEGUARD$"
+    ],
+    [
+        "0_220",
+        "PAIN SPLIT$"
+    ],
+    [
+        "0_221",
+        "SACRED FIRE$"
+    ],
+    [
+        "0_222",
+        "MAGNITUDE$"
+    ],
+    [
+        "0_223",
+        "DYNAMICPUNCH$"
+    ],
+    [
+        "0_224",
+        "MEGAHORN$"
+    ],
+    [
+        "0_225",
+        "DRAGONBREATH$"
+    ],
+    [
+        "0_226",
+        "BATON PASS$"
+    ],
+    [
+        "0_227",
+        "ENCORE$"
+    ],
+    [
+        "0_228",
+        "PURSUIT$"
+    ],
+    [
+        "0_229",
+        "RAPID SPIN$"
+    ],
+    [
+        "0_230",
+        "SWEET SCENT$"
+    ],
+    [
+        "0_231",
+        "IRON TAIL$"
+    ],
+    [
+        "0_232",
+        "METAL CLAW$"
+    ],
+    [
+        "0_233",
+        "VITAL THROW$"
+    ],
+    [
+        "0_234",
+        "MORNING SUN$"
+    ],
+    [
+        "0_235",
+        "SYNTHESIS$"
+    ],
+    [
+        "0_236",
+        "MOONLIGHT$"
+    ],
+    [
+        "0_237",
+        "HIDDEN POWER$"
+    ],
+    [
+        "0_238",
+        "CROSS CHOP$"
+    ],
+    [
+        "0_239",
+        "TWISTER$"
+    ],
+    [
+        "0_240",
+        "RAIN DANCE$"
+    ],
+    [
+        "0_241",
+        "SUNNY DAY$"
+    ],
+    [
+        "0_242",
+        "CRUNCH$"
+    ],
+    [
+        "0_243",
+        "MIRROR COAT$"
+    ],
+    [
+        "0_244",
+        "PSYCH UP$"
+    ],
+    [
+        "0_245",
+        "EXTREMESPEED$"
+    ],
+    [
+        "0_246",
+        "ANCIENTPOWER$"
+    ],
+    [
+        "0_247",
+        "SHADOW BALL$"
+    ],
+    [
+        "0_248",
+        "FUTURE SIGHT$"
+    ],
+    [
+        "0_249",
+        "ROCK SMASH$"
+    ],
+    [
+        "0_250",
+        "WHIRLPOOL$"
+    ],
+    [
+        "0_251",
+        "BEAT UP$"
+    ],
+    [
+        "0_252",
+        "FAKE OUT$"
+    ],
+    [
+        "0_253",
+        "UPROAR$"
+    ],
+    [
+        "0_254",
+        "STOCKPILE$"
+    ],
+    [
+        "0_255",
+        "SPIT UP$"
+    ],
+    [
+        "0_256",
+        "SWALLOW$"
+    ],
+    [
+        "0_257",
+        "HEAT WAVE$"
+    ],
+    [
+        "0_258",
+        "HAIL$"
+    ],
+    [
+        "0_259",
+        "TORMENT$"
+    ],
+    [
+        "0_260",
+        "FLATTER$"
+    ],
+    [
+        "0_261",
+        "WILL-O-WISP$"
+    ],
+    [
+        "0_262",
+        "MEMENTO$"
+    ],
+    [
+        "0_263",
+        "FACADE$"
+    ],
+    [
+        "0_264",
+        "FOCUS PUNCH$"
+    ],
+    [
+        "0_265",
+        "SMELLINGSALT$"
+    ],
+    [
+        "0_266",
+        "FOLLOW ME$"
+    ],
+    [
+        "0_267",
+        "NATURE POWER$"
+    ],
+    [
+        "0_268",
+        "CHARGE$"
+    ],
+    [
+        "0_269",
+        "TAUNT$"
+    ],
+    [
+        "0_270",
+        "HELPING HAND$"
+    ],
+    [
+        "0_271",
+        "TRICK$"
+    ],
+    [
+        "0_272",
+        "ROLE PLAY$"
+    ],
+    [
+        "0_273",
+        "WISH$"
+    ],
+    [
+        "0_274",
+        "ASSIST$"
+    ],
+    [
+        "0_275",
+        "INGRAIN$"
+    ],
+    [
+        "0_276",
+        "SUPERPOWER$"
+    ],
+    [
+        "0_277",
+        "MAGIC COAT$"
+    ],
+    [
+        "0_278",
+        "RECYCLE$"
+    ],
+    [
+        "0_279",
+        "REVENGE$"
+    ],
+    [
+        "0_280",
+        "BRICK BREAK$"
+    ],
+    [
+        "0_281",
+        "YAWN$"
+    ],
+    [
+        "0_282",
+        "KNOCK OFF$"
+    ],
+    [
+        "0_283",
+        "ENDEAVOR$"
+    ],
+    [
+        "0_284",
+        "ERUPTION$"
+    ],
+    [
+        "0_285",
+        "SKILL SWAP$"
+    ],
+    [
+        "0_286",
+        "IMPRISON$"
+    ],
+    [
+        "0_287",
+        "REFRESH$"
+    ],
+    [
+        "0_288",
+        "GRUDGE$"
+    ],
+    [
+        "0_289",
+        "SNATCH$"
+    ],
+    [
+        "0_290",
+        "SECRET POWER$"
+    ],
+    [
+        "0_291",
+        "DIVE$"
+    ],
+    [
+        "0_292",
+        "ARM THRUST$"
+    ],
+    [
+        "0_293",
+        "CAMOUFLAGE$"
+    ],
+    [
+        "0_294",
+        "TAIL GLOW$"
+    ],
+    [
+        "0_295",
+        "LUSTER PURGE$"
+    ],
+    [
+        "0_296",
+        "MIST BALL$"
+    ],
+    [
+        "0_297",
+        "FEATHERDANCE$"
+    ],
+    [
+        "0_298",
+        "TEETER DANCE$"
+    ],
+    [
+        "0_299",
+        "BLAZE KICK$"
+    ],
+    [
+        "0_300",
+        "MUD SPORT$"
+    ],
+    [
+        "0_301",
+        "ICE BALL$"
+    ],
+    [
+        "0_302",
+        "NEEDLE ARM$"
+    ],
+    [
+        "0_303",
+        "SLACK OFF$"
+    ],
+    [
+        "0_304",
+        "HYPER VOICE$"
+    ],
+    [
+        "0_305",
+        "POISON FANG$"
+    ],
+    [
+        "0_306",
+        "CRUSH CLAW$"
+    ],
+    [
+        "0_307",
+        "BLAST BURN$"
+    ],
+    [
+        "0_308",
+        "HYDRO CANNON$"
+    ],
+    [
+        "0_309",
+        "METEOR MASH$"
+    ],
+    [
+        "0_310",
+        "ASTONISH$"
+    ],
+    [
+        "0_311",
+        "WEATHER BALL$"
+    ],
+    [
+        "0_312",
+        "AROMATHERAPY$"
+    ],
+    [
+        "0_313",
+        "FAKE TEARS$"
+    ],
+    [
+        "0_314",
+        "AIR CUTTER$"
+    ],
+    [
+        "0_315",
+        "OVERHEAT$"
+    ],
+    [
+        "0_316",
+        "ODOR SLEUTH$"
+    ],
+    [
+        "0_317",
+        "ROCK TOMB$"
+    ],
+    [
+        "0_318",
+        "SILVER WIND$"
+    ],
+    [
+        "0_319",
+        "METAL SOUND$"
+    ],
+    [
+        "0_320",
+        "GRASSWHISTLE$"
+    ],
+    [
+        "0_321",
+        "TICKLE$"
+    ],
+    [
+        "0_322",
+        "COSMIC POWER$"
+    ],
+    [
+        "0_323",
+        "WATER SPOUT$"
+    ],
+    [
+        "0_324",
+        "SIGNAL BEAM$"
+    ],
+    [
+        "0_325",
+        "SHADOW PUNCH$"
+    ],
+    [
+        "0_326",
+        "EXTRASENSORY$"
+    ],
+    [
+        "0_327",
+        "SKY UPPERCUT$"
+    ],
+    [
+        "0_328",
+        "SAND TOMB$"
+    ],
+    [
+        "0_329",
+        "SHEER COLD$"
+    ],
+    [
+        "0_330",
+        "MUDDY WATER$"
+    ],
+    [
+        "0_331",
+        "BULLET SEED$"
+    ],
+    [
+        "0_332",
+        "AERIAL ACE$"
+    ],
+    [
+        "0_333",
+        "ICICLE SPEAR$"
+    ],
+    [
+        "0_334",
+        "IRON DEFENSE$"
+    ],
+    [
+        "0_335",
+        "BLOCK$"
+    ],
+    [
+        "0_336",
+        "HOWL$"
+    ],
+    [
+        "0_337",
+        "DRAGON CLAW$"
+    ],
+    [
+        "0_338",
+        "FRENZY PLANT$"
+    ],
+    [
+        "0_339",
+        "BULK UP$"
+    ],
+    [
+        "0_340",
+        "BOUNCE$"
+    ],
+    [
+        "0_341",
+        "MUD SHOT$"
+    ],
+    [
+        "0_342",
+        "POISON TAIL$"
+    ],
+    [
+        "0_343",
+        "COVET$"
+    ],
+    [
+        "0_344",
+        "VOLT TACKLE$"
+    ],
+    [
+        "0_345",
+        "MAGICAL LEAF$"
+    ],
+    [
+        "0_346",
+        "WATER SPORT$"
+    ],
+    [
+        "0_347",
+        "CALM MIND$"
+    ],
+    [
+        "0_348",
+        "LEAF BLADE$"
+    ],
+    [
+        "0_349",
+        "DRAGON DANCE$"
+    ],
+    [
+        "0_350",
+        "ROCK BLAST$"
+    ],
+    [
+        "0_351",
+        "SHOCK WAVE$"
+    ],
+    [
+        "0_352",
+        "WATER PULSE$"
+    ],
+    [
+        "0_353",
+        "DOOM DESIRE$"
+    ],
+    [
+        "0_354",
+        "PSYCHO BOOST$"
+    ],
+    [
+        "0_355",
+        "ROOST$"
+    ],
+    [
+        "0_356",
+        "GRAVITY$"
+    ],
+    [
+        "0_357",
+        "MIRACLE EYE$"
+    ],
+    [
+        "0_358",
+        "WAKE-UP SLAP$"
+    ],
+    [
+        "0_359",
+        "HAMMER ARM$"
+    ],
+    [
+        "0_360",
+        "GYRO BALL$"
+    ],
+    [
+        "0_361",
+        "HEALING WISH$"
+    ],
+    [
+        "0_362",
+        "BRINE$"
+    ],
+    [
+        "0_363",
+        "NATURAL GIFT$"
+    ],
+    [
+        "0_364",
+        "FEINT$"
+    ],
+    [
+        "0_365",
+        "PLUCK$"
+    ],
+    [
+        "0_366",
+        "TAILWIND$"
+    ],
+    [
+        "0_367",
+        "ACUPRESSURE$"
+    ],
+    [
+        "0_368",
+        "METAL BURST$"
+    ],
+    [
+        "0_369",
+        "U-TURN$"
+    ],
+    [
+        "0_370",
+        "CLOSE COMBAT$"
+    ],
+    [
+        "0_371",
+        "PAYBACK$"
+    ],
+    [
+        "0_372",
+        "ASSURANCE$"
+    ],
+    [
+        "0_373",
+        "EMBARGO$"
+    ],
+    [
+        "0_374",
+        "FLING$"
+    ],
+    [
+        "0_375",
+        "PSYCHO SHIFT$"
+    ],
+    [
+        "0_376",
+        "TRUMP CARD$"
+    ],
+    [
+        "0_377",
+        "HEAL BLOCK$"
+    ],
+    [
+        "0_378",
+        "WRING OUT$"
+    ],
+    [
+        "0_379",
+        "POWER TRICK$"
+    ],
+    [
+        "0_380",
+        "GASTRO ACID$"
+    ],
+    [
+        "0_381",
+        "LUCKY CHANT$"
+    ],
+    [
+        "0_382",
+        "ME FIRST$"
+    ],
+    [
+        "0_383",
+        "COPYCAT$"
+    ],
+    [
+        "0_384",
+        "POWER SWAP$"
+    ],
+    [
+        "0_385",
+        "GUARD SWAP$"
+    ],
+    [
+        "0_386",
+        "PUNISHMENT$"
+    ],
+    [
+        "0_387",
+        "LAST RESORT$"
+    ],
+    [
+        "0_388",
+        "WORRY SEED$"
+    ],
+    [
+        "0_389",
+        "SUCKER PUNCH$"
+    ],
+    [
+        "0_390",
+        "TOXIC SPIKES$"
+    ],
+    [
+        "0_391",
+        "HEART SWAP$"
+    ],
+    [
+        "0_392",
+        "AQUA RING$"
+    ],
+    [
+        "0_393",
+        "MAGNET RISE$"
+    ],
+    [
+        "0_394",
+        "FLARE BLITZ$"
+    ],
+    [
+        "0_395",
+        "FORCE PALM$"
+    ],
+    [
+        "0_396",
+        "AURA SPHERE$"
+    ],
+    [
+        "0_397",
+        "ROCK POLISH$"
+    ],
+    [
+        "0_398",
+        "POISON JAB$"
+    ],
+    [
+        "0_399",
+        "DARK PULSE$"
+    ],
+    [
+        "0_400",
+        "NIGHT SLASH$"
+    ],
+    [
+        "0_401",
+        "AQUA TAIL$"
+    ],
+    [
+        "0_402",
+        "SEED BOMB$"
+    ],
+    [
+        "0_403",
+        "AIR SLASH$"
+    ],
+    [
+        "0_404",
+        "X-SCISSOR$"
+    ],
+    [
+        "0_405",
+        "BUG BUZZ$"
+    ],
+    [
+        "0_406",
+        "DRAGON PULSE$"
+    ],
+    [
+        "0_407",
+        "DRAGON RUSH$"
+    ],
+    [
+        "0_408",
+        "POWER GEM$"
+    ],
+    [
+        "0_409",
+        "DRAIN PUNCH$"
+    ],
+    [
+        "0_410",
+        "VACUUM WAVE$"
+    ],
+    [
+        "0_411",
+        "FOCUS BLAST$"
+    ],
+    [
+        "0_412",
+        "ENERGY BALL$"
+    ],
+    [
+        "0_413",
+        "BRAVE BIRD$"
+    ],
+    [
+        "0_414",
+        "EARTH POWER$"
+    ],
+    [
+        "0_415",
+        "SWITCHEROO$"
+    ],
+    [
+        "0_416",
+        "GIGA IMPACT$"
+    ],
+    [
+        "0_417",
+        "NASTY PLOT$"
+    ],
+    [
+        "0_418",
+        "BULLET PUNCH$"
+    ],
+    [
+        "0_419",
+        "AVALANCHE$"
+    ],
+    [
+        "0_420",
+        "ICE SHARD$"
+    ],
+    [
+        "0_421",
+        "SHADOW CLAW$"
+    ],
+    [
+        "0_422",
+        "THUNDER FANG$"
+    ],
+    [
+        "0_423",
+        "ICE FANG$"
+    ],
+    [
+        "0_424",
+        "FIRE FANG$"
+    ],
+    [
+        "0_425",
+        "SHADOW SNEAK$"
+    ],
+    [
+        "0_426",
+        "MUD BOMB$"
+    ],
+    [
+        "0_427",
+        "PSYCHO CUT$"
+    ],
+    [
+        "0_428",
+        "ZEN HEADBUTT$"
+    ],
+    [
+        "0_429",
+        "MIRROR SHOT$"
+    ],
+    [
+        "0_430",
+        "FLASH CANNON$"
+    ],
+    [
+        "0_431",
+        "ROCK CLIMB$"
+    ],
+    [
+        "0_432",
+        "DEFOG$"
+    ],
+    [
+        "0_433",
+        "TRICK ROOM$"
+    ],
+    [
+        "0_434",
+        "DRACO METEOR$"
+    ],
+    [
+        "0_435",
+        "DISCHARGE$"
+    ],
+    [
+        "0_436",
+        "LAVA PLUME$"
+    ],
+    [
+        "0_437",
+        "LEAF STORM$"
+    ],
+    [
+        "0_438",
+        "POWER WHIP$"
+    ],
+    [
+        "0_439",
+        "ROCK WRECKER$"
+    ],
+    [
+        "0_440",
+        "CROSS POISON$"
+    ],
+    [
+        "0_441",
+        "GUNK SHOT$"
+    ],
+    [
+        "0_442",
+        "IRON HEAD$"
+    ],
+    [
+        "0_443",
+        "MAGNET BOMB$"
+    ],
+    [
+        "0_444",
+        "STONE EDGE$"
+    ],
+    [
+        "0_445",
+        "CAPTIVATE$"
+    ],
+    [
+        "0_446",
+        "STEALTH ROCK$"
+    ],
+    [
+        "0_447",
+        "GRASS KNOT$"
+    ],
+    [
+        "0_448",
+        "CHATTER$"
+    ],
+    [
+        "0_449",
+        "JUDGMENT$"
+    ],
+    [
+        "0_450",
+        "BUG BITE$"
+    ],
+    [
+        "0_451",
+        "CHARGE BEAM$"
+    ],
+    [
+        "0_452",
+        "WOOD HAMMER$"
+    ],
+    [
+        "0_453",
+        "AQUA JET$"
+    ],
+    [
+        "0_454",
+        "ATTACK ORDER$"
+    ],
+    [
+        "0_455",
+        "DEFEND ORDER$"
+    ],
+    [
+        "0_456",
+        "HEAL ORDER$"
+    ],
+    [
+        "0_457",
+        "HEAD SMASH$"
+    ],
+    [
+        "0_458",
+        "DOUBLE HIT$"
+    ],
+    [
+        "0_459",
+        "ROAR OF TIME$"
+    ],
+    [
+        "0_460",
+        "SPACIAL REND$"
+    ],
+    [
+        "0_461",
+        "LUNAR DANCE$"
+    ],
+    [
+        "0_462",
+        "CRUSH GRIP$"
+    ],
+    [
+        "0_463",
+        "MAGMA STORM$"
+    ],
+    [
+        "0_464",
+        "DARK VOID$"
+    ],
+    [
+        "0_465",
+        "SEED FLARE$"
+    ],
+    [
+        "0_466",
+        "OMINOUS WIND$"
+    ],
+    [
+        "0_467",
+        "SHADOW FORCE$"
+    ],
+    [
+        "0_468",
+        "HONE CLAWS$"
+    ],
+    [
+        "0_469",
+        "WIDE GUARD$"
+    ],
+    [
+        "0_470",
+        "GUARD SPLIT$"
+    ],
+    [
+        "0_471",
+        "POWER SPLIT$"
+    ],
+    [
+        "0_472",
+        "WONDER ROOM$"
+    ],
+    [
+        "0_473",
+        "PSYSHOCK$"
+    ],
+    [
+        "0_474",
+        "VENOSHOCK$"
+    ],
+    [
+        "0_475",
+        "AUTOTOMIZE$"
+    ],
+    [
+        "0_476",
+        "RAGE POWDER$"
+    ],
+    [
+        "0_477",
+        "TELEKINESIS$"
+    ],
+    [
+        "0_478",
+        "MAGIC ROOM$"
+    ],
+    [
+        "0_479",
+        "SMACK DOWN$"
+    ],
+    [
+        "0_480",
+        "STORM THROW$"
+    ],
+    [
+        "0_481",
+        "FLAME BURST$"
+    ],
+    [
+        "0_482",
+        "SLUDGE WAVE$"
+    ],
+    [
+        "0_483",
+        "QUIVER DANCE$"
+    ],
+    [
+        "0_484",
+        "HEAVY SLAM$"
+    ],
+    [
+        "0_485",
+        "SYNCHRONOISE$"
+    ],
+    [
+        "0_486",
+        "ELECTRO BALL$"
+    ],
+    [
+        "0_487",
+        "SOAK$"
+    ],
+    [
+        "0_488",
+        "FLAME CHARGE$"
+    ],
+    [
+        "0_489",
+        "COIL$"
+    ],
+    [
+        "0_490",
+        "LOW SWEEP$"
+    ],
+    [
+        "0_491",
+        "ACID SPRAY$"
+    ],
+    [
+        "0_492",
+        "FOUL PLAY$"
+    ],
+    [
+        "0_493",
+        "SIMPLE BEAM$"
+    ],
+    [
+        "0_494",
+        "ENTRAINMENT$"
+    ],
+    [
+        "0_495",
+        "AFTER YOU$"
+    ],
+    [
+        "0_496",
+        "ROUND$"
+    ],
+    [
+        "0_497",
+        "ECHOED VOICE$"
+    ],
+    [
+        "0_498",
+        "CHIP AWAY$"
+    ],
+    [
+        "0_499",
+        "CLEAR SMOG$"
+    ],
+    [
+        "0_500",
+        "STORED POWER$"
+    ],
+    [
+        "0_501",
+        "QUICK GUARD$"
+    ],
+    [
+        "0_502",
+        "ALLY SWITCH$"
+    ],
+    [
+        "0_503",
+        "SCALD$"
+    ],
+    [
+        "0_504",
+        "SHELL SMASH$"
+    ],
+    [
+        "0_505",
+        "HEAL PULSE$"
+    ],
+    [
+        "0_506",
+        "HEX$"
+    ],
+    [
+        "0_507",
+        "SKY DROP$"
+    ],
+    [
+        "0_508",
+        "SHIFT GEAR$"
+    ],
+    [
+        "0_509",
+        "CIRCLE THROW$"
+    ],
+    [
+        "0_510",
+        "INCINERATE$"
+    ],
+    [
+        "0_511",
+        "QUASH$"
+    ],
+    [
+        "0_512",
+        "ACROBATICS$"
+    ],
+    [
+        "0_513",
+        "REFLECT TYPE$"
+    ],
+    [
+        "0_514",
+        "RETALIATE$"
+    ],
+    [
+        "0_515",
+        "FINAL GAMBIT$"
+    ],
+    [
+        "0_516",
+        "BESTOW$"
+    ],
+    [
+        "0_517",
+        "INFERNO$"
+    ],
+    [
+        "0_518",
+        "WATER PLEDGE$"
+    ],
+    [
+        "0_519",
+        "FIRE PLEDGE$"
+    ],
+    [
+        "0_520",
+        "GRASS PLEDGE$"
+    ],
+    [
+        "0_521",
+        "VOLT SWITCH$"
+    ],
+    [
+        "0_522",
+        "STRUGGLE BUG$"
+    ],
+    [
+        "0_523",
+        "BULLDOZE$"
+    ],
+    [
+        "0_524",
+        "FROST BREATH$"
+    ],
+    [
+        "0_525",
+        "DRAGON TAIL$"
+    ],
+    [
+        "0_526",
+        "WORK UP$"
+    ],
+    [
+        "0_527",
+        "ELECTROWEB$"
+    ],
+    [
+        "0_528",
+        "WILD CHARGE$"
+    ],
+    [
+        "0_529",
+        "DRILL RUN$"
+    ],
+    [
+        "0_530",
+        "DUAL CHOP$"
+    ],
+    [
+        "0_531",
+        "HEART STAMP$"
+    ],
+    [
+        "0_532",
+        "HORN LEECH$"
+    ],
+    [
+        "0_533",
+        "SACRED SWORD$"
+    ],
+    [
+        "0_534",
+        "RAZOR SHELL$"
+    ],
+    [
+        "0_535",
+        "HEAT CRASH$"
+    ],
+    [
+        "0_536",
+        "LEAF TORNADO$"
+    ],
+    [
+        "0_537",
+        "STEAMROLLER$"
+    ],
+    [
+        "0_538",
+        "COTTON GUARD$"
+    ],
+    [
+        "0_539",
+        "NIGHT DAZE$"
+    ],
+    [
+        "0_540",
+        "PSYSTRIKE$"
+    ],
+    [
+        "0_541",
+        "TAIL SLAP$"
+    ],
+    [
+        "0_542",
+        "HURRICANE$"
+    ],
+    [
+        "0_543",
+        "HEAD CHARGE$"
+    ],
+    [
+        "0_544",
+        "GEAR GRIND$"
+    ],
+    [
+        "0_545",
+        "SEARING SHOT$"
+    ],
+    [
+        "0_546",
+        "TECHNO BLAST$"
+    ],
+    [
+        "0_547",
+        "RELIC SONG$"
+    ],
+    [
+        "0_548",
+        "SECRET SWORD$"
+    ],
+    [
+        "0_549",
+        "GLACIATE$"
+    ],
+    [
+        "0_550",
+        "BOLT STRIKE$"
+    ],
+    [
+        "0_551",
+        "BLUE FLARE$"
+    ],
+    [
+        "0_552",
+        "FIERY DANCE$"
+    ],
+    [
+        "0_553",
+        "FREEZE SHOCK$"
+    ],
+    [
+        "0_554",
+        "ICE BURN$"
+    ],
+    [
+        "0_555",
+        "SNARL$"
+    ],
+    [
+        "0_556",
+        "ICICLE CRASH$"
+    ],
+    [
+        "0_557",
+        "V-CREATE$"
+    ],
+    [
+        "0_558",
+        "FUSION FLARE$"
+    ],
+    [
+        "0_559",
+        "FUSION BOLT$"
+    ]
+]

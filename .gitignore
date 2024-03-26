@@ -1,0 +1,8 @@
+build
+*.nds
+*.sav
+*.o
+.deps
+.sav
+.pyc
+.narc

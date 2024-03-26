@@ -1,0 +1,662 @@
+[
+    [
+        "0_0",
+        " -$"
+    ],
+    [
+        "0_1",
+        "STENCH$"
+    ],
+    [
+        "0_2",
+        "DRIZZLE$"
+    ],
+    [
+        "0_3",
+        "SPEED BOOST$"
+    ],
+    [
+        "0_4",
+        "BATTLE ARMOR$"
+    ],
+    [
+        "0_5",
+        "STURDY$"
+    ],
+    [
+        "0_6",
+        "DAMP$"
+    ],
+    [
+        "0_7",
+        "LIMBER$"
+    ],
+    [
+        "0_8",
+        "SAND VEIL$"
+    ],
+    [
+        "0_9",
+        "STATIC$"
+    ],
+    [
+        "0_10",
+        "VOLT ABSORB$"
+    ],
+    [
+        "0_11",
+        "WATER ABSORB$"
+    ],
+    [
+        "0_12",
+        "OBLIVIOUS$"
+    ],
+    [
+        "0_13",
+        "CLOUD NINE$"
+    ],
+    [
+        "0_14",
+        "COMPOUNDEYES$"
+    ],
+    [
+        "0_15",
+        "INSOMNIA$"
+    ],
+    [
+        "0_16",
+        "COLOR CHANGE$"
+    ],
+    [
+        "0_17",
+        "IMMUNITY$"
+    ],
+    [
+        "0_18",
+        "FLASH FIRE$"
+    ],
+    [
+        "0_19",
+        "SHIELD DUST$"
+    ],
+    [
+        "0_20",
+        "OWN TEMPO$"
+    ],
+    [
+        "0_21",
+        "SUCTION CUPS$"
+    ],
+    [
+        "0_22",
+        "INTIMIDATE$"
+    ],
+    [
+        "0_23",
+        "SHADOW TAG$"
+    ],
+    [
+        "0_24",
+        "ROUGH SKIN$"
+    ],
+    [
+        "0_25",
+        "WONDER GUARD$"
+    ],
+    [
+        "0_26",
+        "LEVITATE$"
+    ],
+    [
+        "0_27",
+        "EFFECT SPORE$"
+    ],
+    [
+        "0_28",
+        "SYNCHRONIZE$"
+    ],
+    [
+        "0_29",
+        "CLEAR BODY$"
+    ],
+    [
+        "0_30",
+        "NATURAL CURE$"
+    ],
+    [
+        "0_31",
+        "LIGHTNINGROD$"
+    ],
+    [
+        "0_32",
+        "SERENE GRACE$"
+    ],
+    [
+        "0_33",
+        "SWIFT SWIM$"
+    ],
+    [
+        "0_34",
+        "CHLOROPHYLL$"
+    ],
+    [
+        "0_35",
+        "ILLUMINATE$"
+    ],
+    [
+        "0_36",
+        "TRACE$"
+    ],
+    [
+        "0_37",
+        "HUGE POWER$"
+    ],
+    [
+        "0_38",
+        "POISON POINT$"
+    ],
+    [
+        "0_39",
+        "INNER FOCUS$"
+    ],
+    [
+        "0_40",
+        "MAGMA ARMOR$"
+    ],
+    [
+        "0_41",
+        "WATER VEIL$"
+    ],
+    [
+        "0_42",
+        "MAGNET PULL$"
+    ],
+    [
+        "0_43",
+        "SOUNDPROOF$"
+    ],
+    [
+        "0_44",
+        "RAIN DISH$"
+    ],
+    [
+        "0_45",
+        "SAND STREAM$"
+    ],
+    [
+        "0_46",
+        "PRESSURE$"
+    ],
+    [
+        "0_47",
+        "THICK FAT$"
+    ],
+    [
+        "0_48",
+        "EARLY BIRD$"
+    ],
+    [
+        "0_49",
+        "FLAME BODY$"
+    ],
+    [
+        "0_50",
+        "RUN AWAY$"
+    ],
+    [
+        "0_51",
+        "KEEN EYE$"
+    ],
+    [
+        "0_52",
+        "HYPER CUTTER$"
+    ],
+    [
+        "0_53",
+        "PICKUP$"
+    ],
+    [
+        "0_54",
+        "TRUANT$"
+    ],
+    [
+        "0_55",
+        "HUSTLE$"
+    ],
+    [
+        "0_56",
+        "CUTE CHARM$"
+    ],
+    [
+        "0_57",
+        "PLUS$"
+    ],
+    [
+        "0_58",
+        "MINUS$"
+    ],
+    [
+        "0_59",
+        "FORECAST$"
+    ],
+    [
+        "0_60",
+        "STICKY HOLD$"
+    ],
+    [
+        "0_61",
+        "SHED SKIN$"
+    ],
+    [
+        "0_62",
+        "GUTS$"
+    ],
+    [
+        "0_63",
+        "MARVEL SCALE$"
+    ],
+    [
+        "0_64",
+        "LIQUID OOZE$"
+    ],
+    [
+        "0_65",
+        "OVERGROW$"
+    ],
+    [
+        "0_66",
+        "BLAZE$"
+    ],
+    [
+        "0_67",
+        "TORRENT$"
+    ],
+    [
+        "0_68",
+        "SWARM$"
+    ],
+    [
+        "0_69",
+        "ROCK HEAD$"
+    ],
+    [
+        "0_70",
+        "DROUGHT$"
+    ],
+    [
+        "0_71",
+        "ARENA TRAP$"
+    ],
+    [
+        "0_72",
+        "VITAL SPIRIT$"
+    ],
+    [
+        "0_73",
+        "WHITE SMOKE$"
+    ],
+    [
+        "0_74",
+        "PURE POWER$"
+    ],
+    [
+        "0_75",
+        "SHELL ARMOR$"
+    ],
+    [
+        "0_76",
+        "AIR LOCK$"
+    ],
+    [
+        "0_77",
+        "TANGLED FEET$"
+    ],
+    [
+        "0_78",
+        "MOTOR DRIVE$"
+    ],
+    [
+        "0_79",
+        "RIVALRY$"
+    ],
+    [
+        "0_80",
+        "STEADFAST$"
+    ],
+    [
+        "0_81",
+        "SNOW CLOAK$"
+    ],
+    [
+        "0_82",
+        "GLUTTONY$"
+    ],
+    [
+        "0_83",
+        "ANGER POINT$"
+    ],
+    [
+        "0_84",
+        "UNBURDEN$"
+    ],
+    [
+        "0_85",
+        "HEATPROOF$"
+    ],
+    [
+        "0_86",
+        "SIMPLE$"
+    ],
+    [
+        "0_87",
+        "DRY SKIN$"
+    ],
+    [
+        "0_88",
+        "DOWNLOAD$"
+    ],
+    [
+        "0_89",
+        "IRON FIST$"
+    ],
+    [
+        "0_90",
+        "POISON HEAL$"
+    ],
+    [
+        "0_91",
+        "ADAPTABILITY$"
+    ],
+    [
+        "0_92",
+        "SKILL LINK$"
+    ],
+    [
+        "0_93",
+        "HYDRATION$"
+    ],
+    [
+        "0_94",
+        "SOLAR POWER$"
+    ],
+    [
+        "0_95",
+        "QUICK FEET$"
+    ],
+    [
+        "0_96",
+        "NORMALIZE$"
+    ],
+    [
+        "0_97",
+        "SNIPER$"
+    ],
+    [
+        "0_98",
+        "MAGIC GUARD$"
+    ],
+    [
+        "0_99",
+        "NO GUARD$"
+    ],
+    [
+        "0_100",
+        "STALL$"
+    ],
+    [
+        "0_101",
+        "TECHNICIAN$"
+    ],
+    [
+        "0_102",
+        "LEAF GUARD$"
+    ],
+    [
+        "0_103",
+        "KLUTZ$"
+    ],
+    [
+        "0_104",
+        "MOLD BREAKER$"
+    ],
+    [
+        "0_105",
+        "SUPER LUCK$"
+    ],
+    [
+        "0_106",
+        "AFTERMATH$"
+    ],
+    [
+        "0_107",
+        "ANTICIPATION$"
+    ],
+    [
+        "0_108",
+        "FOREWARN$"
+    ],
+    [
+        "0_109",
+        "UNAWARE$"
+    ],
+    [
+        "0_110",
+        "TINTED LENS$"
+    ],
+    [
+        "0_111",
+        "FILTER$"
+    ],
+    [
+        "0_112",
+        "SLOW START$"
+    ],
+    [
+        "0_113",
+        "SCRAPPY$"
+    ],
+    [
+        "0_114",
+        "STORM DRAIN$"
+    ],
+    [
+        "0_115",
+        "ICE BODY$"
+    ],
+    [
+        "0_116",
+        "SOLID ROCK$"
+    ],
+    [
+        "0_117",
+        "SNOW WARNING$"
+    ],
+    [
+        "0_118",
+        "HONEY GATHER$"
+    ],
+    [
+        "0_119",
+        "FRISK$"
+    ],
+    [
+        "0_120",
+        "RECKLESS$"
+    ],
+    [
+        "0_121",
+        "MULTITYPE$"
+    ],
+    [
+        "0_122",
+        "FLOWER GIFT$"
+    ],
+    [
+        "0_123",
+        "BAD DREAMS$"
+    ],
+    [
+        "0_124",
+        "PICKPOCKET$"
+    ],
+    [
+        "0_125",
+        "SHEER FORCE$"
+    ],
+    [
+        "0_126",
+        "CONTRARY$"
+    ],
+    [
+        "0_127",
+        "UNNERVE$"
+    ],
+    [
+        "0_128",
+        "DEFIANT$"
+    ],
+    [
+        "0_129",
+        "DEFEATIST$"
+    ],
+    [
+        "0_130",
+        "CURSED BODY$"
+    ],
+    [
+        "0_131",
+        "HEALER$"
+    ],
+    [
+        "0_132",
+        "FRIEND GUARD$"
+    ],
+    [
+        "0_133",
+        "WEAK ARMOR$"
+    ],
+    [
+        "0_134",
+        "HEAVY METAL$"
+    ],
+    [
+        "0_135",
+        "LIGHT METAL$"
+    ],
+    [
+        "0_136",
+        "MULTISCALE$"
+    ],
+    [
+        "0_137",
+        "TOXIC BOOST$"
+    ],
+    [
+        "0_138",
+        "FLARE BOOST$"
+    ],
+    [
+        "0_139",
+        "HARVEST$"
+    ],
+    [
+        "0_140",
+        "TELEPATHY$"
+    ],
+    [
+        "0_141",
+        "MOODY$"
+    ],
+    [
+        "0_142",
+        "OVERCOAT$"
+    ],
+    [
+        "0_143",
+        "POISON TOUCH$"
+    ],
+    [
+        "0_144",
+        "REGENERATOR$"
+    ],
+    [
+        "0_145",
+        "BIG PECKS$"
+    ],
+    [
+        "0_146",
+        "SAND RUSH$"
+    ],
+    [
+        "0_147",
+        "WONDER SKIN$"
+    ],
+    [
+        "0_148",
+        "ANALYTIC$"
+    ],
+    [
+        "0_149",
+        "ILLUSION$"
+    ],
+    [
+        "0_150",
+        "IMPOSTER$"
+    ],
+    [
+        "0_151",
+        "INFILTRATOR$"
+    ],
+    [
+        "0_152",
+        "MUMMY$"
+    ],
+    [
+        "0_153",
+        "MOXIE$"
+    ],
+    [
+        "0_154",
+        "JUSTIFIED$"
+    ],
+    [
+        "0_155",
+        "RATTLED$"
+    ],
+    [
+        "0_156",
+        "MAGIC BOUNCE$"
+    ],
+    [
+        "0_157",
+        "SAP SIPPER$"
+    ],
+    [
+        "0_158",
+        "PRANKSTER$"
+    ],
+    [
+        "0_159",
+        "SAND FORCE$"
+    ],
+    [
+        "0_160",
+        "IRON BARBS$"
+    ],
+    [
+        "0_161",
+        "ZEN MODE$"
+    ],
+    [
+        "0_162",
+        "VICTORY STAR$"
+    ],
+    [
+        "0_163",
+        "TURBOBLAZE$"
+    ],
+    [
+        "0_164",
+        "TERAVOLT$"
+    ]
+]
